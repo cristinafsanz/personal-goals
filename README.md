@@ -1,60 +1,28 @@
-Personal Goals
+Objetivos de trabajo 
 ==============
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
+Objetivos para organizarme, inicialmente pensado por semanas. 
 
-# Overarching Goals for 2017: [Make an Impact](http://una.im/2016-review/)
-1. JavaScript
-2. Be a Teacher
-3. Stay Experimental
-4. Publish a Book
-5. Start Running Again
+# Objetivos para 2017
 
-I'm also doing 5 25-Days Projects in 2017:
+1. Mejorar en Front-end
+2. Mejorar preparando y dando charlas
+3. Finalizar proyecto de "Casos de Uso de GitHub Pages" 
 
-1. ⭕ Running
-2. ⭕ Writing Letters
-3. ✅ Mentorship
-4. 🌀 Dev Doodles
-5. 🌀 Meditation
 
-# August 13, 2017
+## 21 Agosto 2017
 
-### This Week's Focus: Writing & Walking
+### Objetivo para esta semana: Preparar templates para slides para explicar conceptos gráficamente.
 
-### Things I'll do This Week:
+### Cosas que haré esta semana:
 
-- [ ] 🎙 Record/Post Toolsday Episode
-- [ ] 🚀 Build "My Library" Vue thing
-- [ ] 💜 Read [this](https://stripe.com/blog/connect-front-end-experience)
-- [ ] 💛 Finish Wes Bos' ES6 Course
-- [ ] ✍️ Finish "Why Design Systems Fail" Post
-- [ ] 🌐 Fix up Classless <-- !
-- [ ] 🌐 Add tooltips in YMNNJS
-- [ ] 📚 Finish intro JS things
-- [ ] 📚 Finish tech edits
-- [ ] 📚 CSS in JS Section
-- [ ] Continue meditation streak
-- [ ] Go home for Grandmas Bday
-- [ ] Get Massage :)
-- [ ] Deal with medical bills
-- [ ] Work on talk for ColdFront Conf
-- [ ] Start talk for Design Systems Coalition
+- [ ] 🚀 Crear repositorio para templates con árbol de ficheros y resultado.
+- [ ] 💜 Hacer analogías de ramas de GitHub para explicar los posibles orígenes de GitHub Pages.
 
-### Things I'll Do in the Future:
-
-- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Build something cool with Arduino
-- [ ] Create my own, or work on helping build a cleaner JS presentation framework
-- [ ] Create a typeface (hand-lettered monospace)
-- [ ] Make an electron app
-- [ ] Build a SlackBot (MyTime)
-- [ ] Every Day App (Happy moments or X-Days Projects)
-- [ ] Take this [online elecctronics class](http://www.instructables.com/class/Electronics-Class/)
-- [ ] Finish [JavaScript 30](https://javascript30.com/)
-- [ ] "Walk Me Through JS" Video Series
-- [ ] Toolsday & Web Love stickers
-- [x] Implement offline support for my blog
-- [ ] Build an Offline Web App (Heiroglyph)
-- [ ] Raise money for women in tech organizations
-- [x] Read [Resilient Web Design](https://resilientwebdesign.com/)
+### Para siguientes semanas: 
+- [ ] Preparar guión charla TechShessions
+- [ ] Preparar slides charla TechShessions
+- [ ] 📚 JavaScript30
+- [ ] 📚 Aprender Vue
+- [ ] 📚 ITCSS de EscuelaIT
+- [ ] 📚 Grid Layout y Flexbox EscuelaIT
