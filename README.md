@@ -1,4 +1,4 @@
-Objetivos de trabajo 
+Objetivos y planes
 ==============
 
 Objetivos para organizarme, inicialmente pensado por semanas. 
@@ -10,7 +10,7 @@ Objetivos para organizarme, inicialmente pensado por semanas.
 3. Finalizar proyecto de "Casos de Uso de GitHub Pages".
 
 
-## 21 Agosto 2017
+## 21-28 Agosto 2017
 
 ### Objetivo para esta semana: Preparar templates para slides para explicar conceptos gráficamente.
 
@@ -21,8 +21,24 @@ Objetivos para organizarme, inicialmente pensado por semanas.
 
 ### Para siguientes semanas: 
 - [ ] ✍️ Preparar guión charla TechShessions
-- [ ] 🚀 Preparar slides charla TechShessions
+- [ ] 🚀 Preparar slides
+- [ ] 🙊 Practicar charla: ejercicios vocalización
 - [ ] 📚 JavaScript30
 - [ ] 📚 Aprender Vue
 - [ ] 📚 ITCSS de EscuelaIT
 - [ ] 📚 Grid Layout y Flexbox EscuelaIT
+
+### Viajes/Eventos:
+- [ ] 🚊 San Sebastián - Bilbao - AntiEvent (6-10 Septiembre)
+- [ ] 🚊 Aranda (15-17 Septiembre)
+- [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre)
+- [ ] 🚊 WTM Zaragoza? (11 Noviembre)
+- [ ] 🚊 Codemotion Madrid (24-25 Noviembre)
+
+### Cursos:
+- [ ] 📚 Taller Grid Layout (28 Septiembre)
+- [ ] 📚 Taller de Sketchnoting (21 Octubre)
+
+
+
+Notas: Lista Emojis GitHub: https://gist.github.com/AliMD/3344523
