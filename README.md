@@ -20,24 +20,25 @@ Objetivos para organizarme, inicialmente pensado por semanas.
 - [ ] 🚀 Hacer analogías de ramas de GitHub para explicar los posibles orígenes de GitHub Pages.
 
 ### Para siguientes semanas: 
-- [ ] ✍️ Preparar guión charla TechShessions
-- [ ] 🚀 Preparar slides
-- [ ] 🙊 Practicar charla: ejercicios vocalización
-- [ ] 📚 JavaScript30
-- [ ] 📚 Aprender Vue
-- [ ] 📚 ITCSS de EscuelaIT
-- [ ] 📚 Grid Layout y Flexbox EscuelaIT
+- ✍️ Preparar guión charla TechShessions
+- 🚀 Preparar slides
+- 🙊 Practicar charla: ejercicios vocalización
+- 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
+- 📚 JavaScript30
+- 📚 Aprender Vue
+- 📚 ITCSS de EscuelaIT
+- 📚 Grid Layout y Flexbox EscuelaIT
 
 ### Viajes/Eventos:
-- [ ] 🚊 San Sebastián - Bilbao - AntiEvent (6-10 Septiembre)
-- [ ] 🚊 Aranda (15-17 Septiembre)
-- [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre)
-- [ ] 🚊 WTM Zaragoza? (11 Noviembre)
-- [ ] 🚊 Codemotion Madrid (24-25 Noviembre)
+- 🚊 San Sebastián - Bilbao - AntiEvent (6-10 Septiembre)
+- 🚊 Aranda (15-17 Septiembre)
+- 🚊 San Fernando de Henares - Codenares (23 Septiembre)
+- 🚊 WTM Zaragoza? (11 Noviembre)
+- 🚊 Codemotion Madrid (24-25 Noviembre)
 
 ### Cursos:
-- [ ] 📚 Taller Grid Layout (28 Septiembre)
-- [ ] 📚 Taller de Sketchnoting (21 Octubre)
+- 📚 Taller Grid Layout (28 Septiembre)
+- 📚 Taller de Sketchnoting (21 Octubre)
 
 
 
