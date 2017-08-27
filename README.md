@@ -10,18 +10,20 @@ Objetivos para organizarme, inicialmente pensado por semanas.
 3. Finalizar proyecto de "Casos de Uso de GitHub Pages".
 
 
-## 21-28 Agosto 2017
+## 28 Agosto 2017
 
 ### Objetivo para esta semana: Preparar templates para slides para explicar conceptos gráficamente.
 
 ### Cosas que haré esta semana:
 
-- [ ] 🚀 Crear repositorio para templates con árbol de ficheros y resultado.
-- [ ] 🚀 Hacer analogías de ramas de GitHub para explicar los posibles orígenes de GitHub Pages.
+- [ ] 🚀 Crear repositorio de charlas y poner las de TechShessions aquí
+- [ ] 🚀 Probar release de cada charla para bajar en zip y poner en master todas en carpetas
+- [ ] ✍️ Escribir guión charla TechShessions
+- [ ] ✍️ README con slides de inspiración
+- [ ] 🚀 Preparar slides
 
 ### Para siguientes semanas: 
-- [ ] ✍️ Preparar guión charla TechShessions
-- [ ] 🚀 Preparar slides
+
 - [ ] 🙊 Practicar charla: ejercicios vocalización
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
 - [ ] 📚 JavaScript30
