@@ -29,7 +29,7 @@ Leer antes de ponerse con algún objetivo:
 
 ### Para siguientes semanas: 
 
-- [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e.
+- [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
 - [ ] 📚 JavaScript30
