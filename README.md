@@ -1,30 +1,30 @@
 Objetivos y planes
 ==============
 
-Objetivos para organizarme, inicialmente pensado por semanas. 
+Leer antes de ponerse con algún objetivo: [10 Steps to learn any skill](https://whywhathow.xyz/how-to-learn-any-skill/). 
 
-# Objetivos para 2017
+# Objetivos para curso 2017-2018
 
-1. Mejorar en Front-end, sobre todo VanillaJS.
-2. Mejorar preparando y dando charlas.
-3. Finalizar proyecto de "Casos de Uso de GitHub Pages".
+1. Mejorar en Front-end, sobre todo VanillaJS. E intentar hacerlo en el horario de trabajo.
+2. Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
+3. Seguir con pilates y hacer algo más de deporte. ¿Algo de baile?
+4. Mejorar preparando y dando charlas.
+5. Finalizar proyecto de "Casos de Uso de GitHub Pages" y utilizarlo como base para próximos aprendizajes.
+6. Disfrutar de lo conseguido.
 
 
-## 28 Agosto 2017
+## 1 Septiembre 2017
 
-### Objetivo para esta semana: Preparar templates para slides para explicar conceptos gráficamente.
+### Objetivo para esta semana: Preparar slides y presentación.
 
 ### Cosas que haré esta semana:
 
-- [ ] 🚀 Crear repositorio de charlas y poner las de TechShessions aquí
-- [ ] 🚀 Probar release de cada charla para bajar en zip y poner en master todas en carpetas
-- [ ] ✍️ Escribir guión charla TechShessions
-- [ ] ✍️ README con slides de inspiración
+- [ ] ✍️ Escribir guión
 - [ ] 🚀 Preparar slides
+- [ ] 🙊 Practicar charla: ejercicios vocalización
 
 ### Para siguientes semanas: 
 
-- [ ] 🙊 Practicar charla: ejercicios vocalización
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
 - [ ] 📚 JavaScript30
 - [ ] 📚 Aprender Vue
