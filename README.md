@@ -1,7 +1,10 @@
 Objetivos y planes
 ==============
 
-Leer antes de ponerse con algún objetivo: [10 Steps to learn any skill](https://whywhathow.xyz/how-to-learn-any-skill/). 
+Leer antes de ponerse con algún objetivo:
+
+- [10 Steps to learn any skill](https://whywhathow.xyz/how-to-learn-any-skill/). 
+- [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
 
 # Objetivos para curso 2017-2018
 
@@ -11,6 +14,7 @@ Leer antes de ponerse con algún objetivo: [10 Steps to learn any skill](https:/
 4. Mejorar preparando y dando charlas.
 5. Finalizar proyecto de "Casos de Uso de GitHub Pages" y utilizarlo como base para próximos aprendizajes.
 6. Disfrutar de lo conseguido.
+7. Planificar planes y viajes durante el año.
 
 
 ## 1 Septiembre 2017
