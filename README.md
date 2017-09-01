@@ -1,7 +1,9 @@
 Objetivos y planes
 ==============
 
-Leer antes de ponerse con algún objetivo:
+Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my personal Goals made me really productive](https://una.im/personal-goals-guide/).
+
+Útil antes de ponerse con algún objetivo:
 
 - [10 Steps to learn any skill](https://whywhathow.xyz/how-to-learn-any-skill/). 
 - [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
@@ -45,7 +47,7 @@ Leer antes de ponerse con algún objetivo:
 
 ### Cursos:
 - [ ] 📚 Taller Grid Layout (28 Septiembre)
-- [ ] 📚 Taller de Sketchnoting (21 Octubre)
+- [ ] 🎨 Taller de Sketchnoting (21 Octubre)
 
 
 
