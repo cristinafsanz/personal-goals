@@ -8,13 +8,13 @@ Leer antes de ponerse con algún objetivo:
 
 # Objetivos para curso 2017-2018
 
-1. Mejorar en Front-end, sobre todo VanillaJS. E intentar hacerlo en el horario de trabajo.
-2. Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
-3. Seguir con pilates y hacer algo más de deporte. ¿Algo de baile?
-4. Mejorar preparando y dando charlas.
-5. Finalizar proyecto de "Casos de Uso de GitHub Pages" y utilizarlo como base para próximos aprendizajes.
-6. Disfrutar de lo conseguido.
-7. Planificar planes y viajes durante el año.
+1. 📚 Mejorar en Front-end, sobre todo VanillaJS. E intentar hacerlo en el horario de trabajo.
+2. 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
+3. 💃 Seguir con pilates y hacer algo más de deporte. ¿Algo de baile?
+4. 🙊 Mejorar preparando y dando charlas.
+5. 💡 Finalizar proyecto de "Casos de Uso de GitHub Pages" y utilizarlo como base para próximos aprendizajes.
+6. 💪 Disfrutar de lo conseguido.
+7. 😍 Planificar planes y viajes durante el año.
 
 
 ## 1 Septiembre 2017
@@ -23,9 +23,9 @@ Leer antes de ponerse con algún objetivo:
 
 ### Cosas que haré esta semana:
 
-- [ ] ✍️ Escribir guión
-- [ ] 🚀 Preparar slides
-- [ ] 🙊 Practicar charla: ejercicios vocalización
+- [ ] ✍️ Escribir guión.
+- [ ] 🚀 Preparar slides.
+- [ ] 🙊 Practicar charla: ejercicios vocalización.
 
 ### Para siguientes semanas: 
 
@@ -48,4 +48,4 @@ Leer antes de ponerse con algún objetivo:
 
 
 
-Notas: Lista Emojis GitHub: https://gist.github.com/AliMD/3344523
+Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
