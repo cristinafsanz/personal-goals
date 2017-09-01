@@ -25,19 +25,20 @@ Leer antes de ponerse con algún objetivo:
 
 - [ ] ✍️ Escribir guión.
 - [ ] 🚀 Preparar slides.
-- [ ] 🙊 Practicar charla: ejercicios vocalización.
+- [ ] 🙊 Practicar charla.
 
 ### Para siguientes semanas: 
 
+- [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e.
+- [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
 - [ ] 📚 JavaScript30
 - [ ] 📚 Aprender Vue
-- [ ] 📚 ITCSS de EscuelaIT
 - [ ] 📚 Grid Layout y Flexbox EscuelaIT
+- [ ] 📚 ITCSS de EscuelaIT
 
 ### Viajes/Eventos:
-- [ ] 🚊 San Sebastián - Bilbao - AntiEvent (6-10 Septiembre)
-- [ ] 🚊 Aranda (15-17 Septiembre)
+- [ ] 🚊 Bilbao - AntiEvent (8-9 Septiembre)
 - [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre)
 - [ ] 🚊 WTM Zaragoza? (11 Noviembre)
 - [ ] 🚊 Codemotion Madrid (24-25 Noviembre)
