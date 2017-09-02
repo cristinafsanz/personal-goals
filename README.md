@@ -7,7 +7,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 - [10 Steps to learn any skill](https://whywhathow.xyz/how-to-learn-any-skill/). 
 - [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
-- [Aprender y hacer cosas nuevas nos hace felices](https://youtu.be/5XsKHEunOXs?t=2832)
+- [Aprender y hacer cosas nuevas nos hace felices](https://youtu.be/5XsKHEunOXs?t=2832).
+- [Cómo terminar proyectos personales](https://es.slideshare.net/CarlosCaboGonzlez/cmo-terminar-los-proyectos-personales-que-se-empiezan-o-no).
 
 # Objetivos para curso 2017-2018
 
