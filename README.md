@@ -7,6 +7,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 - [10 Steps to learn any skill](https://whywhathow.xyz/how-to-learn-any-skill/). 
 - [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
+- [Aprender y hacer cosas nuevas nos hace felices](https://youtu.be/5XsKHEunOXs?t=2832)
 
 # Objetivos para curso 2017-2018
 
@@ -29,7 +30,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 Preparar slides.
 - [ ] 🙊 Practicar charla.
 
-### Para siguientes semanas: 
+### Tareas para el futuro: 
 
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
