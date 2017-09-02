@@ -1,14 +1,14 @@
 Objetivos y planes
 ==============
 
-Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my personal Goals made me really productive](https://una.im/personal-goals-guide/).
+Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my personal Goals made me really productive](https://una.im/personal-goals-guide/). Puedes hacer un fork de su [repositorio](https://github.com/una/personal-goals-starter).
 
 Útil antes de ponerse con algún objetivo:
 
 - [10 Steps to learn any skill](https://whywhathow.xyz/how-to-learn-any-skill/). 
 - [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
 - [Aprender y hacer cosas nuevas nos hace felices](https://youtu.be/5XsKHEunOXs?t=2832).
-- [Cómo terminar proyectos personales](https://es.slideshare.net/CarlosCaboGonzlez/cmo-terminar-los-proyectos-personales-que-se-empiezan-o-no).
+- [Consejos proyectos personales](https://melies-hugo.js.org/post/practica-publica-aprende/).
 
 # Objetivos para curso 2017-2018
 
@@ -31,12 +31,15 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 Preparar slides.
 - [ ] 🙊 Practicar charla.
 
-### Tareas para el futuro: 
+### Cosas que haré este mes:
 
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
+- [ ] 📚 [JavaScript30](https://javascript30.com/).
+
+### Backlog:
+
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
-- [ ] 📚 JavaScript30
 - [ ] 📚 Aprender Vue
 - [ ] 📚 Grid Layout y Flexbox EscuelaIT
 - [ ] 📚 ITCSS de EscuelaIT
