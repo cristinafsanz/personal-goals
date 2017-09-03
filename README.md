@@ -5,18 +5,18 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 Útil antes de ponerse con algún objetivo:
 
-- [10 Steps to learn any skill](https://whywhathow.xyz/how-to-learn-any-skill/). 
-- [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
 - [Aprender y hacer cosas nuevas nos hace felices](https://youtu.be/5XsKHEunOXs?t=2832).
+- [¿Cómo lograr los objetivos que nos marcamos?](https://www.youtube.com/watch?v=ES6_4EbalyA). 
+- [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
 - [Consejos proyectos personales](https://melies-hugo.js.org/post/practica-publica-aprende/).
 
 # Objetivos para curso 2017-2018
 
 1. 📚 Mejorar en Front-end, sobre todo VanillaJS. E intentar hacerlo en el horario de trabajo.
 2. 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
-3. 💃 Seguir con pilates y hacer algo más de deporte. ¿Algo de baile?
+3. 💃 Seguir con pilates y hacer algo más de deporte.
 4. 🙊 Mejorar preparando y dando charlas.
-5. 💡 Finalizar proyecto de "Casos de Uso de GitHub Pages" y utilizarlo como base para próximos aprendizajes.
+5. 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 6. 💪 Disfrutar de lo conseguido.
 7. 😍 Planificar planes y viajes durante el año.
 
@@ -33,9 +33,10 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré este mes:
 
+- [ ] 📚 [JavaScript30](https://javascript30.com/).
+- [ ] Intro a Vue: [Meetup VueJS 12 Sept.](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) y [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
-- [ ] 📚 [JavaScript30](https://javascript30.com/).
 
 ### Backlog:
 
