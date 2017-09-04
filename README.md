@@ -6,7 +6,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 Útil antes de ponerse con algún objetivo:
 
 - [Aprender y hacer cosas nuevas nos hace felices](https://youtu.be/5XsKHEunOXs?t=2832).
-- [¿Cómo lograr los objetivos que nos marcamos?](https://www.youtube.com/watch?v=ES6_4EbalyA). 
 - [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
 - [Consejos proyectos personales](https://melies-hugo.js.org/post/practica-publica-aprende/).
 
