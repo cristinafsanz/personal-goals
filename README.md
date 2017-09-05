@@ -16,8 +16,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 3. 💃 Seguir con pilates y hacer algo más de deporte.
 4. 🙊 Mejorar preparando y dando charlas.
 5. 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
-6. 💪 Disfrutar de lo conseguido.
+6. 💪 Disfrutar de lo conseguido y descansar.
 7. 😍 Planificar planes y viajes durante el año.
+8. 😟 Decir que no a propuestas fuera de mis prioridades o si ya tengo suficientes cosas. Proponer a otra persona para ello.
 
 
 ## 1 Septiembre 2017
