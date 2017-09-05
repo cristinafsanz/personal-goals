@@ -26,33 +26,37 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré esta semana:
 
-- [ ] ✍️ Escribir guión.
-- [ ] 🚀 Preparar slides.
+- [x] ✍️ Escribir guión.
+- [x] 🚀 Preparar slides.
 - [ ] 🙊 Practicar charla.
 
 ### Cosas que haré este mes:
 
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] Intro a Vue: [Meetup VueJS 12 Sept.](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) y [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
-- [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
-- [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
+- [ ] Preparar TechShessions
 
 ### Backlog:
 
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
+- [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
+- [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 - [ ] 📚 Aprender Vue
 - [ ] 📚 Grid Layout y Flexbox EscuelaIT
 - [ ] 📚 ITCSS de EscuelaIT
 
 ### Viajes/Eventos:
+
 - [ ] 🚊 Bilbao - AntiEvent (8-9 Septiembre)
 - [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre)
 - [ ] 🚊 WTM Zaragoza? (11 Noviembre)
 - [ ] 🚊 Codemotion Madrid (24-25 Noviembre)
 
 ### Cursos:
-- [ ] 📚 Taller Grid Layout (28 Septiembre)
-- [ ] 🎨 Taller de Sketchnoting (21 Octubre)
+
+- [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (28 Septiembre)
+- [ ] 🙊 [Taller hablar en público](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter) (29 Septiembre)
+- [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (21 Octubre)
 
 
 
