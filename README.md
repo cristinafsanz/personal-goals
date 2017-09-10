@@ -21,21 +21,23 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 8. 😟 Decir que no a propuestas fuera de mis prioridades o si ya tengo suficientes cosas. Proponer a otra persona para ello.
 
 
-## 1 Septiembre 2017
+## 11-17 Septiembre 2017
 
-### Objetivo para esta semana: Preparar slides y presentación.
+### Objetivo para esta semana: Recopilar información de este gran fin de semana en TheAntiEvent
 
 ### Cosas que haré esta semana:
 
-- [x] ✍️ Escribir guión.
-- [x] 🚀 Preparar slides.
-- [ ] 🙊 Practicar charla.
+- [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://elenatorro.github.io/theantievent-notes/.
+- [ ] 🚀 Intro a Vue: [Meetup VueJS 12 Sept.](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/)
+- [ ] 🚀 Probar todo lo que nos contó Jorge Aznar sobre bash: https://pastebin.com/Sn8ckES4
+- [ ] 😍 Seguir los proyectos de github que comentaron los antiasistentes
 
 ### Cosas que haré este mes:
 
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
-- [ ] Intro a Vue: [Meetup VueJS 12 Sept.](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) y [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
-- [ ] Preparar TechShessions
+- [ ] 🚀 Intro a Vue: [Meetup VueJS 12 Sept.](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) y [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
+- [ ] 🙊 Preparar TechShessions
+- [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 
 ### Backlog:
 
