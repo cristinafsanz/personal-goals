@@ -27,7 +27,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré esta semana:
 
-- [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://elenatorro.github.io/theantievent-notes/.
+- [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
 - [ ] 🚀 Intro a Vue: [Meetup VueJS 12 Sept.](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/)
 - [ ] 🚀 Probar todo lo que nos contó Jorge Aznar sobre bash: https://pastebin.com/Sn8ckES4
 - [ ] 😍 Seguir los proyectos de github que comentaron los antiasistentes
@@ -35,7 +35,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cosas que haré este mes:
 
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
-- [ ] 🚀 Intro a Vue: [Meetup VueJS 12 Sept.](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) y [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
+- [ ] 🚀 Charla Vue Jose Dongil: [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
 - [ ] 🙊 Preparar TechShessions
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 
