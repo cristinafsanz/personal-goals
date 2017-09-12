@@ -16,9 +16,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 3. 💃 Seguir con pilates y hacer algo más de deporte.
 4. 🙊 Mejorar preparando y dando charlas.
 5. 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
-6. 💪 Disfrutar de lo conseguido y descansar.
-7. 😍 Planificar planes y viajes durante el año.
-8. 😢 Decir que no a propuestas fuera de mis prioridades o si ya tengo suficientes cosas.
+6. 😍 Planificar planes y viajes durante el año. Descansar.
 
 
 ## 11-17 Septiembre 2017
@@ -28,21 +26,23 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cosas que haré esta semana:
 
 - [ ] 🚀 Crear un repo para empezar a jugar con lo que contó Jorge Aznar de Bash en TheAntievent: https://gist.github.com/jorgeatgu/6b1f9bdf8ae9b02ad69d2f7bd039aac9.
-- [ ] 😍 Seguir los proyectos de github que comentaron los antiasistentes
+- [ ] 😍 Seguir los proyectos de github que comentaron los antiasistentes.
 
 ### Cosas que haré este mes:
 
 - [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
-- [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📆 Charla Vue Jose Dongil: [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
 - [ ] 📆 Ladies that UX 26 Sept. 20h
 - [ ] 📆 Rebeldes TIC 28 Sept. 18:45h
+- [ ] 📆 Taller hablar en público 29 Sept. 16h
+- [ ] 📚 Curso Grid Layout 28 Sept. (6 días)
 - [ ] 🙊 Preparar TechShessions 7 Oct.
-- [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 
 ### Backlog:
 
+- [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
+- [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 - [ ] 📚 Aprender Vue
