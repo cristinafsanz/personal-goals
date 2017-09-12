@@ -11,14 +11,14 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 # Objetivos para curso 2017-2018
 
-1. 📚 Mejorar en Front-end, sobre todo VanillaJS. E intentar hacerlo en el horario de trabajo.
+1. 📚 Mejorar en Front-end, arquitectura CSS y JavaScript. E intentar hacerlo en el horario de trabajo.
 2. 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 3. 💃 Seguir con pilates y hacer algo más de deporte.
 4. 🙊 Mejorar preparando y dando charlas.
 5. 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 6. 💪 Disfrutar de lo conseguido y descansar.
 7. 😍 Planificar planes y viajes durante el año.
-8. 😟 Decir que no a propuestas fuera de mis prioridades o si ya tengo suficientes cosas. Proponer a otra persona para ello.
+8. 😢 Decir que no a propuestas fuera de mis prioridades o si ya tengo suficientes cosas.
 
 
 ## 11-17 Septiembre 2017
@@ -27,15 +27,17 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré esta semana:
 
-- [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
-- [ ] 🚀 Probar todo lo que nos contó Jorge Aznar sobre bash: https://gist.github.com/jorgeatgu/6b1f9bdf8ae9b02ad69d2f7bd039aac9.
+- [ ] 🚀 Crear un repo para empezar a jugar con lo que contó Jorge Aznar de Bash en TheAntievent: https://gist.github.com/jorgeatgu/6b1f9bdf8ae9b02ad69d2f7bd039aac9.
 - [ ] 😍 Seguir los proyectos de github que comentaron los antiasistentes
 
 ### Cosas que haré este mes:
 
+- [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
-- [ ] 🚀 Charla Vue Jose Dongil: [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
-- [ ] 🙊 Preparar TechShessions
+- [ ] 📆 Charla Vue Jose Dongil: [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
+- [ ] 📆 Ladies that UX 26 Sept. 20h
+- [ ] 📆 Rebeldes TIC 28 Sept. 18:45h
+- [ ] 🙊 Preparar TechShessions 7 Oct.
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 
 ### Backlog:
@@ -49,16 +51,16 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Viajes/Eventos:
 
-- [ ] 🚊 Bilbao - AntiEvent (8-9 Septiembre)
 - [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre)
 - [ ] 🚊 WTM Zaragoza? (11 Noviembre)
 - [ ] 🚊 Codemotion Madrid (24-25 Noviembre)
 
 ### Cursos:
 
-- [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (28 Septiembre)
-- [ ] 🙊 [Taller hablar en público](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter) (29 Septiembre)
-- [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (21 Octubre)
+- [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (Jueves 28 Septiembre)
+- [ ] 🙊 [Taller hablar en público](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter) (Viernes 29 Septiembre)
+- [ ] 🙊 TechShessions (Sábado 7 Octubre)
+- [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre)
 
 
 
