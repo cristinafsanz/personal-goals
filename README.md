@@ -21,14 +21,16 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## 11-17 Septiembre 2017
 
-### Objetivo para esta semana: Recopilar información de este gran fin de semana en TheAntiEvent
+### Objetivo para esta semana: Aplicar charla Bash AntiEvent
 
 ### Cosas que haré esta semana:
 
 - [ ] 🚀 Crear un repo para empezar a jugar con lo que contó Jorge Aznar de Bash en TheAntievent: https://gist.github.com/jorgeatgu/6b1f9bdf8ae9b02ad69d2f7bd039aac9.
 - [ ] 😍 Seguir los proyectos de github que comentaron los antiasistentes.
 
-### Cosas que haré este mes:
+### Objetivo para este mes: Preparar TechShessions
+
+### Cosas que haré este mes: 
 
 - [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
 - [ ] 📆 Charla Vue Jose Dongil: [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
@@ -37,6 +39,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📆 Taller hablar en público 29 Sept. 16h
 - [ ] 📚 Curso Grid Layout 28 Sept. (6 días)
 - [ ] 🙊 Preparar TechShessions 7 Oct.
+
+![Calendario antes de evento TechShessions](images/calendar-sept-2017.png?raw=true)
 
 ### Backlog:
 
