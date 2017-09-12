@@ -28,8 +28,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cosas que haré esta semana:
 
 - [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
-- [ ] 🚀 Intro a Vue: [Meetup VueJS 12 Sept.](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/)
-- [ ] 🚀 Probar todo lo que nos contó Jorge Aznar sobre bash: https://pastebin.com/Sn8ckES4
+- [ ] 🚀 Probar todo lo que nos contó Jorge Aznar sobre bash: https://gist.github.com/jorgeatgu/6b1f9bdf8ae9b02ad69d2f7bd039aac9.
 - [ ] 😍 Seguir los proyectos de github que comentaron los antiasistentes
 
 ### Cosas que haré este mes:
