@@ -11,7 +11,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 # Objetivos para curso 2017-2018
 
-1. 📚 Mejorar en Front-end, arquitectura CSS y JavaScript. E intentar hacerlo en el horario de trabajo.
+1. 📚 Mejorar en Front-end, arquitectura CSS y JavaScript.
 2. 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 3. 💃 Seguir con pilates y hacer algo más de deporte.
 4. 🙊 Mejorar preparando y dando charlas.
