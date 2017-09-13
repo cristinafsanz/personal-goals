@@ -39,6 +39,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📆 [Rebeldes TIC 28 Sept. 18:45h](https://www.meetup.com/es-ES/Rebeldes-del-Sector-TI-por-la-Conciliacion/events/243137843/).
 - [ ] 📆 Taller hablar en público 29 Sept. 16h
 - [ ] 🙊 Preparar TechShessions 7 Oct.
+- [ ] 🎨 Probar a hacer alguna acuarela del libro "Cómo pintar Agua a la acuarela, Joe Francis Dowden, ed. El Drac".
 
 ![Calendario antes de evento TechShessions](images/calendar-sept-2017.png?raw=true)
 
