@@ -40,6 +40,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 #### Semana 25 Sept.-1 Octubre: Aprender a aprender en programación + Semana de charlas
 - [ ] 📚 Leer artículos sobre aprendizaje: http://www.codingdojo.com/blog/7-tips-learn-programming-faster/.
+- [ ] 📚 GitHub para tutoriales y ejemplos de código: https://twitter.com/ThePracticalDev/status/907773120722952192?s=03.
 - [ ] 📆 [Ladies that UX 26 Sept. 20h](https://www.eventbrite.es/e/entradas-ladies-that-ux-laura-andina-en-el-campus-madrid-37838145913).
 - [ ] 📆 [Rebeldes TIC 28 Sept. 18:45h](https://www.meetup.com/es-ES/Rebeldes-del-Sector-TI-por-la-Conciliacion/events/243137843/).
 - [ ] 📆 Taller hablar en público 29 Sept. 16h
