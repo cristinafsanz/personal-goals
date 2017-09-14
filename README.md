@@ -43,7 +43,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📚 GitHub para tutoriales y ejemplos de código: https://twitter.com/ThePracticalDev/status/907773120722952192?s=03.
 - [ ] 📆 [Ladies that UX 26 Sept. 20h](https://www.eventbrite.es/e/entradas-ladies-that-ux-laura-andina-en-el-campus-madrid-37838145913).
 - [ ] 📆 [Rebeldes TIC 28 Sept. 18:45h](https://www.meetup.com/es-ES/Rebeldes-del-Sector-TI-por-la-Conciliacion/events/243137843/).
-- [ ] 📆 Taller hablar en público 29 Sept. 16h
+- [ ] 📆 [Taller hablar en público 29 Sept. 16h](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter). 
 - [ ] ✍️ Guión TechShessions sobre aprender en programación y GitHub.
 
 #### Semana 2-8 Octubre: Practicar charla TechShessions
@@ -56,26 +56,25 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 - [ ] 📚 Leer libro "Getting Things done" de David Allen. 
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
-- [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/)
+- [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/).
+- [ ] 📚 Aprender Vue.
+- [ ] 📚 Grid Layout y Flexbox EscuelaIT.
+- [ ] 📚 ITCSS de EscuelaIT.
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
-- [ ] 📚 Aprender Vue
-- [ ] 📚 Grid Layout y Flexbox EscuelaIT
-- [ ] 📚 ITCSS de EscuelaIT
 
 ### Viajes/Eventos:
 
-- [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre)
-- [ ] 🚊 WTM Zaragoza? (11 Noviembre)
-- [ ] 🚊 Codemotion Madrid (24-25 Noviembre)
+- [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre).
+- [ ] 🚊 WTM Zaragoza? (11 Noviembre).
+- [ ] 🚊 Codemotion Madrid (24-25 Noviembre).
 
 ### Cursos:
 
-- [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (Jueves 28 Septiembre)
-- [ ] 🙊 [Taller hablar en público](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter) (Viernes 29 Septiembre)
-- [ ] 🙊 TechShessions (Sábado 7 Octubre)
-- [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre)
+- [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (Jueves 28 Septiembre).
+- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico) (Lunes 16 Octubre).
+- [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
 
 
 
