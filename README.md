@@ -36,7 +36,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 - [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
 - [ ] 🚀  Añadir mi setup y probar automatización Bash Jorge Aznar y Viroide: https://github.com/cristinafsanz/setup.
-- [ ] 📆 Charla Vue Jose Dongil: [Codenares 23 Sept.](https://www.meetup.com/es-ES/codenares/events/242761638/).
+- [ ] 📆 Charla Vue Jose Dongil: [Codenares 23 Sept. 10h](https://www.meetup.com/es-ES/codenares/events/242761638/).
 
 #### Semana 25 Sept.-1 Octubre: Aprender a aprender en programación + Semana de charlas
 - [ ] 📚 Leer artículos sobre aprendizaje: http://www.codingdojo.com/blog/7-tips-learn-programming-faster/.
@@ -67,7 +67,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Viajes/Eventos:
 
 - [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre).
-- [ ] 🚊 WTM Zaragoza? (11 Noviembre).
+- [ ] 🚊 WTM Zaragoza (11 Noviembre).
 - [ ] 🚊 Codemotion Madrid (24-25 Noviembre).
 
 ### Cursos:
