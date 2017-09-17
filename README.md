@@ -19,24 +19,19 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 6. 😍 Planificar planes y viajes durante el año. Descansar.
 
 
-## 11-17 Septiembre 2017
+## 18-24 Septiembre 2017
 
-### Objetivo para esta semana: Aplicar charla Bash AntiEvent
+### Objetivo para esta semana: Asentar conceptos TheAntiEvent + intro Vue
 
 ### Cosas que haré esta semana:
-
-- [ ] 🚀 Crear un repo para empezar a jugar con lo que contó Jorge Aznar de Bash en TheAntievent: https://gist.github.com/jorgeatgu/6b1f9bdf8ae9b02ad69d2f7bd039aac9.
-- [ ] 😍 Seguir los proyectos de github que comentaron los antiasistentes.
-
-### Objetivo para este mes: Preparar TechShessions
-
-### Cosas que haré este mes: 
-
-#### Semana 18-24 Septiembre: Asentar conceptos TheAntiEvent 
 
 - [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
 - [ ] 🚀  Añadir mi setup y probar automatización Bash Jorge Aznar y Viroide: https://github.com/cristinafsanz/setup.
 - [ ] 📆 Charla Vue Jose Dongil: [Codenares 23 Sept. 10h](https://www.meetup.com/es-ES/codenares/events/242761638/).
+
+### Objetivo para este mes: Preparar TechShessions
+
+### Cosas que haré este mes: 
 
 #### Semana 25 Sept.-1 Octubre: Aprender a aprender en programación + Semana de charlas
 - [ ] 📚 Leer artículos sobre aprendizaje: http://www.codingdojo.com/blog/7-tips-learn-programming-faster/.
