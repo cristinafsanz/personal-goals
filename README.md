@@ -47,10 +47,11 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ![Calendario antes de evento TechShessions](images/calendar-sept-2017.png?raw=true)
 
-### Backlog:
-
-- [ ] 📚 Leer libro "Getting Things done" de David Allen. 
+#### Semana 9-15 Octubre: JavaScript30 + getting things done
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
+- [ ] 📚 Leer libro "Getting Things done" de David Allen. 
+
+### Backlog:
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/).
 - [ ] 📚 Aprender Vue.
 - [ ] 📚 Grid Layout y Flexbox EscuelaIT.
