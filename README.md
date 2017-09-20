@@ -25,24 +25,25 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré esta semana:
 
-- [ ] ✍️ Hacer pull request para añadir mis notas al super repo de Elena: https://github.com/elenatorro/theantievent-notes.
+- [ ] ✍️ Apuntar en GitHub mis notas de TheAntiEvent.
 - [ ] 🚀  Añadir mi setup y probar automatización Bash Jorge Aznar y Viroide: https://github.com/cristinafsanz/setup.
 - [ ] 📆 Charla Vue Jose Dongil: [Codenares 23 Sept. 10h](https://www.meetup.com/es-ES/codenares/events/242761638/).
+- [ ] 📚 Empezar a aprender Vue.
 
 ### Objetivo para este mes: Preparar TechShessions
 
 ### Cosas que haré este mes: 
 
 #### Semana 25 Sept.-1 Octubre: Aprender a aprender en programación + Semana de charlas
+- [ ] 📆 [Ladies that UX 26 Sept. 20h](https://www.eventbrite.es/e/entradas-ladies-that-ux-laura-andina-en-el-campus-madrid-37838145913).
+- [ ] 📚 [Taller Grid Layout 28 Sept. 19h](https://escuela.it/cursos/taller-de-css-grid-layout).
+- [ ] 📆 [Taller hablar en público 29 Sept. 16h](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter). 
 - [ ] 📚 Leer artículos sobre aprendizaje: http://www.codingdojo.com/blog/7-tips-learn-programming-faster/.
 - [ ] 📚 GitHub para tutoriales y ejemplos de código: https://twitter.com/ThePracticalDev/status/907773120722952192?s=03.
-- [ ] 📆 [Ladies that UX 26 Sept. 20h](https://www.eventbrite.es/e/entradas-ladies-that-ux-laura-andina-en-el-campus-madrid-37838145913).
-- [ ] 📆 [Rebeldes TIC 28 Sept. 18:45h](https://www.meetup.com/es-ES/Rebeldes-del-Sector-TI-por-la-Conciliacion/events/243137843/).
-- [ ] 📆 [Taller hablar en público 29 Sept. 16h](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter). 
 - [ ] ✍️ Guión TechShessions sobre aprender en programación y GitHub.
 
 #### Semana 2-8 Octubre: Practicar charla TechShessions
-- [ ] 🙊 Preparar TechShessions 7 Oct: slides (añadir aprendizaje en programación) + práctica para medir tiempos.
+- [ ] 🙊 Preparar TechShessions 7 Oct: slides (GitHub como ayuda al aprendizaje en programación) + práctica para medir tiempos.
 - [ ] 🎨 Probar a hacer alguna acuarela del libro "Cómo pintar Agua a la acuarela, Joe Francis Dowden, ed. El Drac".
 
 ![Calendario antes de evento TechShessions](images/calendar-sept-2017.png?raw=true)
