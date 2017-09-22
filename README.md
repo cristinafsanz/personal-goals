@@ -50,6 +50,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 #### Semana 9-15 Octubre: JavaScript30 + getting things done
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
+- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
 - [ ] 📚 Leer libro "Getting Things done" de David Allen. 
 
 ### Backlog:
