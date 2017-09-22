@@ -46,7 +46,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🙊 Preparar TechShessions 7 Oct: slides (GitHub como ayuda al aprendizaje en programación) + práctica para medir tiempos.
 - [ ] 🎨 Probar a hacer alguna acuarela del libro "Cómo pintar Agua a la acuarela, Joe Francis Dowden, ed. El Drac".
 
-![Calendario antes de evento TechShessions](images/calendar-sept-2017.png?raw=true)
+![Calendario antes de evento TechShessions](images/calendar-sept-2017.jpg?raw=true)
 
 #### Semana 9-15 Octubre: JavaScript30 + getting things done
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
