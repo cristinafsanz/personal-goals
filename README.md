@@ -18,8 +18,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 5. 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 6. 😍 Planificar planes y viajes durante el año. Descansar.
 
+### Cosas que haré esta semana:
 
-#### Semana 25 Sept.-1 Octubre: Leer sobre "Aprender a aprender" en programación + Semana de charlas
+#### Semana 25 Sept.-1 Octubre: Guión y slides TechShessions
 - [ ] 📆 [Ladies that UX 26 Sept. 20h](https://www.eventbrite.es/e/entradas-ladies-that-ux-laura-andina-en-el-campus-madrid-37838145913).
 - [ ] 📚 [Taller Grid Layout 28 Sept. 19h](https://escuela.it/cursos/taller-de-css-grid-layout).
 - [ ] 📆 [Taller hablar en público 29 Sept. 16h](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter). 
@@ -32,7 +33,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 #### Semana 2-8 Octubre: Practicar charla TechShessions
 
-- [ ] 🙊 Preparar TechShessions 7 Oct: práctica para medir tiempos.
+- [ ] 🙊 Preparar TechShessions 7 Oct: práctica para medir tiempos:
+
+  - [Presentástico: Técnica teatral, voz y ensayo](http://presentastico.com/2017/04/05/ep-04-tecnica-teatral-voz-y-ensayo-con-fermi-casado/): Leer en voz alta para ir vocalizando (con pausas en cada punto). Practicar primera vez completo como si fuera explicando a un amigo y segunda vez de pie y como si fuera el día de la charla. Memorizar ideas clave pero explicarlo con tus propias palabras.
 
 - [ ] 🎨 Probar a hacer alguna acuarela del libro "Cómo pintar Agua a la acuarela, Joe Francis Dowden, ed. El Drac".
 
