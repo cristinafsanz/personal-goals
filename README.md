@@ -24,8 +24,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📆 [Ladies that UX 26 Sept. 20h](https://www.eventbrite.es/e/entradas-ladies-that-ux-laura-andina-en-el-campus-madrid-37838145913).
 - [ ] 📚 [Taller Grid Layout 28 Sept. 19h](https://escuela.it/cursos/taller-de-css-grid-layout).
 - [ ] 📆 [Taller hablar en público 29 Sept. 16h](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter). 
-- [ ] 📚 Leer artículos sobre aprendizaje: http://www.codingdojo.com/blog/7-tips-learn-programming-faster/.
-- [ ] 📚 GitHub para tutoriales y ejemplos de código: https://twitter.com/ThePracticalDev/status/907773120722952192?s=03.
+- [ ] 📚 Leer [Cómo Hablar y Presentar en Público: Consejos que funcionan desde el primer minuto](https://www.amazon.es/dp/B01HU8ZTSW/ref=pe_386191_48869971_TE_M1DP).
+- [ ] 📚 Leer [Aprende Git y de camino GitHub](https://www.amazon.es/Aprende-Git-y-camino-GitHub-ebook/dp/B00K515GL2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1506360182&sr=1-1).
 - [ ] ✍️ Guión TechShessions sobre aprender en programación y GitHub.
 - [ ] ✍️ Preparar TechShessions 7 Oct: slides (GitHub como ayuda al aprendizaje en programación).
 
