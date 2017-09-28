@@ -21,34 +21,40 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cosas que haré esta semana:
 
 #### Semana 25 Sept.-1 Octubre: Guión y slides TechShessions
-- [ ] 📆 [Ladies that UX 26 Sept. 20h](https://www.eventbrite.es/e/entradas-ladies-that-ux-laura-andina-en-el-campus-madrid-37838145913).
-- [ ] 📚 [Taller Grid Layout 28 Sept. 19h](https://escuela.it/cursos/taller-de-css-grid-layout).
 - [ ] 📆 [Taller hablar en público 29 Sept. 16h](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter). 
 - [ ] 📚 Leer [Cómo Hablar y Presentar en Público: Consejos que funcionan desde el primer minuto](https://www.amazon.es/dp/B01HU8ZTSW/ref=pe_386191_48869971_TE_M1DP).
-- [ ] 📚 Leer [Aprende Git y de camino GitHub](https://www.amazon.es/Aprende-Git-y-camino-GitHub-ebook/dp/B00K515GL2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1506360182&sr=1-1).
+- [ ] 📚 Apuntar notas en repositorio de GitHub del libro [Aprende Git y de camino GitHub](https://www.amazon.es/Aprende-Git-y-camino-GitHub-ebook/dp/B00K515GL2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1506360182&sr=1-1).
 - [ ] ✍️ Guión TechShessions sobre aprender en programación y GitHub.
 - [ ] ✍️ Preparar TechShessions 7 Oct: slides (GitHub como ayuda al aprendizaje en programación).
+- [ ] 🚀 Primeros ejemplos Vue en repositorio del [libro Vue Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details).
 
 ### Cosas que haré este mes: 
 
 #### Semana 2-8 Octubre: Practicar charla TechShessions
 
 - [ ] 🙊 Preparar TechShessions 7 Oct: práctica para medir tiempos:
-
   - [Presentástico: Técnica teatral, voz y ensayo](http://presentastico.com/2017/04/05/ep-04-tecnica-teatral-voz-y-ensayo-con-fermi-casado/): Leer en voz alta para ir vocalizando (con pausas en cada punto). Practicar primera vez completo como si fuera explicando a un amigo y segunda vez de pie y como si fuera el día de la charla. Memorizar ideas clave pero explicarlo con tus propias palabras.
-
-- [ ] 🎨 Probar a hacer alguna acuarela del libro "Cómo pintar Agua a la acuarela, Joe Francis Dowden, ed. El Drac".
+- [ ] 🚀 Terminar taller Flexbox y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
 
 ![Calendario antes de evento TechShessions](images/calendar-sept-2017.jpg?raw=true)
 
-#### Semana 9-15 Octubre: JavaScript30 + getting things done
-- [ ] 📚 [JavaScript30](https://javascript30.com/).
-- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
-- [ ] 📚 Leer libro "Getting Things done" de David Allen. 
+#### Semana 9-15 Octubre: Taller Grid Layout
+- [ ] 🚀 Taller Grid Layout EscuelaIT y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
+
+#### Semana 16-22 Octubre: Talleres Comunicación y Sketchnoting
+- [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18 Octubre).
+- [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
+- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico).
+
+#### Semana 23-29 Octubre: Taller Comunicación + Curso Dibujo
+- [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre)
+- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico).
 
 ### Backlog:
-- [ ] 📚 Aprender Vue.
-- [ ] 📚 Grid Layout y Flexbox EscuelaIT.
+- [ ] 📚 Aprender Vue (libro Jose + Escuela IT).
+- [ ] 📚 [JavaScript30](https://javascript30.com/).
+- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
+- [ ] 📚 Leer libro "Getting Things done" de David Allen.
 - [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/).
 - [ ] 📚 ITCSS de EscuelaIT.
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
@@ -57,7 +63,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Viajes/Eventos:
 
-- [ ] 🚊 San Fernando de Henares - Codenares (23 Septiembre).
 - [ ] 🚊 WTM Zaragoza (11 Noviembre).
 - [ ] 🚊 Codemotion Madrid (24-25 Noviembre).
 
@@ -66,7 +71,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (Jueves 28 Septiembre).
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18, 23 y 25 Octubre).
 - [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
-- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico) (Lunes 16 Octubre).
+- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico) (Lunes 16 Octubre-11 Noviembre).
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
