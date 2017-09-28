@@ -47,9 +47,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📚 Leer libro "Getting Things done" de David Allen. 
 
 ### Backlog:
-- [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/).
 - [ ] 📚 Aprender Vue.
 - [ ] 📚 Grid Layout y Flexbox EscuelaIT.
+- [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/).
 - [ ] 📚 ITCSS de EscuelaIT.
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
@@ -64,9 +64,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cursos:
 
 - [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (Jueves 28 Septiembre).
-- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico) (Lunes 16 Octubre).
+- [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18, 23 y 25 Octubre).
 - [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
-
+- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico) (Lunes 16 Octubre).
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
