@@ -20,25 +20,17 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré esta semana:
 
-#### Semana 25 Sept.-1 Octubre: Guión y slides TechShessions
-- [ ] 📆 [Taller hablar en público 29 Sept. 16h](https://clubs.ie.edu/ieacareers/rsvp?id=300008439&utm_source=approval_email_sent_event_approved#.Wa4zM0qQLwc.twitter). 
-- [ ] 📚 Leer [Cómo Hablar y Presentar en Público: Consejos que funcionan desde el primer minuto](https://www.amazon.es/dp/B01HU8ZTSW/ref=pe_386191_48869971_TE_M1DP).
-- [ ] 📚 Apuntar notas en repositorio de GitHub del libro [Aprende Git y de camino GitHub](https://www.amazon.es/Aprende-Git-y-camino-GitHub-ebook/dp/B00K515GL2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1506360182&sr=1-1).
-- [ ] ✍️ Guión TechShessions sobre aprender en programación y GitHub.
-- [ ] ✍️ Preparar TechShessions 7 Oct: slides (GitHub como ayuda al aprendizaje en programación).
+#### Semana 2 - 8 Octubre: Práctica TechShessions
+- [ ] ✍️ Terminar guión TechShessions.
+- [ ] ✍️ Cambiar slides con las mejoras detectadas.
+- 🙊 Preparar TechShessions 7 Oct: práctica para medir tiempos:
+  - [Presentástico: Técnica teatral, voz y ensayo](http://presentastico.com/2017/04/05/ep-04-tecnica-teatral-voz-y-ensayo-con-fermi-casado/): Leer en voz alta para ir vocalizando (con pausas en cada punto). Practicar primera vez completo como si fuera explicando a un amigo y segunda vez de pie y como si fuera el día de la charla. Memorizar ideas clave pero explicarlo con tus propias palabras.
 - [ ] 🚀 Primeros ejemplos Vue en repositorio del [libro Vue Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details).
 
 ### Cosas que haré este mes: 
 
-#### Semana 2-8 Octubre: Practicar charla TechShessions
-
-- [ ] 🙊 Preparar TechShessions 7 Oct: práctica para medir tiempos:
-  - [Presentástico: Técnica teatral, voz y ensayo](http://presentastico.com/2017/04/05/ep-04-tecnica-teatral-voz-y-ensayo-con-fermi-casado/): Leer en voz alta para ir vocalizando (con pausas en cada punto). Practicar primera vez completo como si fuera explicando a un amigo y segunda vez de pie y como si fuera el día de la charla. Memorizar ideas clave pero explicarlo con tus propias palabras.
-- [ ] 🚀 Terminar taller Flexbox y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
-
-![Calendario antes de evento TechShessions](images/calendar-sept-2017.jpg?raw=true)
-
 #### Semana 9-15 Octubre: Taller Grid Layout
+- [ ] 🚀 Terminar taller Flexbox y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
 - [ ] 🚀 Taller Grid Layout EscuelaIT y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
 
 #### Semana 16-22 Octubre: Talleres Comunicación y Sketchnoting
