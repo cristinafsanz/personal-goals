@@ -23,13 +23,12 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Semana 2 - 8 Octubre: Práctica TechShessions
 - [ ] ✍️ Terminar guión TechShessions.
 - [ ] ✍️ Cambiar slides con las mejoras detectadas.
-- 🙊 Preparar TechShessions 7 Oct: práctica para medir tiempos:
-  - [Presentástico: Técnica teatral, voz y ensayo](http://presentastico.com/2017/04/05/ep-04-tecnica-teatral-voz-y-ensayo-con-fermi-casado/): Leer en voz alta para ir vocalizando (con pausas en cada punto). Practicar primera vez completo como si fuera explicando a un amigo y segunda vez de pie y como si fuera el día de la charla. Memorizar ideas clave pero explicarlo con tus propias palabras.
+- [ ] 🙊 Preparar TechShessions 7 Oct: práctica para medir tiempos: [Presentástico: Técnica teatral, voz y ensayo](http://presentastico.com/2017/04/05/ep-04-tecnica-teatral-voz-y-ensayo-con-fermi-casado/): Leer en voz alta para ir vocalizando (con pausas en cada punto). Practicar primera vez completo como si fuera explicando a un amigo y segunda vez de pie y como si fuera el día de la charla. Memorizar ideas clave pero explicarlo con tus propias palabras.
 - [ ] 🚀 Primeros ejemplos Vue en repositorio del [libro Vue Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details).
 
 ### Cosas que haré este mes: 
 
-#### Semana 9-15 Octubre: Taller Grid Layout
+#### Semana 9-15 Octubre: Taller Flexbox + Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
 - [ ] 🚀 Taller Grid Layout EscuelaIT y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
 
