@@ -20,27 +20,34 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré esta semana:
 
-#### Semana 2 - 8 Octubre: Práctica TechShessions
-- [ ] ✍️ Terminar guión TechShessions.
-- [ ] ✍️ Cambiar slides con las mejoras detectadas.
-- 🙊 Preparar TechShessions 7 Oct: práctica para medir tiempos:
-  - [Presentástico: Técnica teatral, voz y ensayo](http://presentastico.com/2017/04/05/ep-04-tecnica-teatral-voz-y-ensayo-con-fermi-casado/): Leer en voz alta para ir vocalizando (con pausas en cada punto). Practicar primera vez completo como si fuera explicando a un amigo y segunda vez de pie y como si fuera el día de la charla. Memorizar ideas clave pero explicarlo con tus propias palabras.
+#### Semana 9-15 Octubre: Jotted ejemplo
+- [ ] 🚀 Curso Flexbox en GitHub: con notas y Jotted.
 - [ ] 🚀 Primeros ejemplos Vue en repositorio del [libro Vue Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details).
 
-### Cosas que haré este mes: 
-
-#### Semana 9-15 Octubre: Taller Grid Layout
-- [ ] 🚀 Terminar taller Flexbox y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
-- [ ] 🚀 Taller Grid Layout EscuelaIT y añadir notas y enlaces Codepen a https://github.com/cristinafsanz/practicas-front.
+### Cosas que haré este mes:
 
 #### Semana 16-22 Octubre: Talleres Comunicación y Sketchnoting
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18 Octubre).
 - [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
-- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico).
+- [ ] 🚀 Taller Grid Layout EscuelaIT y añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
 
-#### Semana 23-29 Octubre: Taller Comunicación + Curso Dibujo
-- [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre)
-- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico).
+#### Semana 23-29 Octubre: Taller Comunicación + Guión charla
+- [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre).
+- [ ] ✍️ Guión charla Codemotion: Jotted con ejemplos + ahondar GitHub Pages + demos online/offline. ¿Incluir Mélies?
+
+### Semana 30 Octubre-5 Noviembre: Slides
+
+- [ ] 🚀 Ampliar slides de TechShessions para Codemotion: Jotted con ejemplos + ahondar GitHub Pages + demos online/offline. Menos textos y evitar lo que no se pueda leer.
+
+### Semana 7-12 Noviembre: WTM Zaragoza
+
+### Semana 13-19 Noviembre: Practicar charla
+
+- 🙊 Practicar charla y ajustar tiempos para 30-35 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador.
+
+- Preparar kit Codemotion: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, chrome pantalla completa y agrandar/reducir legra, c 
+
+### Semana 20-26 Noviembre: Codemotion
 
 ### Backlog:
 - [ ] 📚 Aprender Vue (libro Jose + Escuela IT).
@@ -63,7 +70,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (Jueves 28 Septiembre).
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18, 23 y 25 Octubre).
 - [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
-- [ ] 🎨 [Curso Miriadax Dibujo](https://miriadax.net/web/dibujo-en-el-aula-ensenar-un-lenguaje-magico) (Lunes 16 Octubre-11 Noviembre).
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
