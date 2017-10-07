@@ -37,7 +37,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Semana 30 Octubre-5 Noviembre: Slides
 
-- [ ] 🚀 Ampliar slides de TechShessions para Codemotion: Jotted con ejemplos + ahondar GitHub Pages + demos online/offline. Menos textos y evitar lo que no se pueda leer.
+- [ ] 🚀 Ampliar slides de TechShessions para Codemotion: Jotted con ejemplos + ahondar GitHub Pages + demos online/offline. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla.
 
 ### Semana 7-12 Noviembre: WTM Zaragoza
 
