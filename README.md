@@ -20,9 +20,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré esta semana:
 
-#### Semana 9-15 Octubre: Jotted ejemplo
-- [ ] 🚀 Curso Flexbox en GitHub: con notas y Jotted.
-- [ ] 🚀 Primeros ejemplos Vue en repositorio del [libro Vue Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details).
+#### Semana 9-15 Octubre: Jotted ejemplo + Flexbox master, docs y gh-pages
+- [ ] 🚀 Ejemplos Flexbox en GitHub: master, docs, gh-pages y Jotted.
 
 ### Cosas que haré este mes:
 
@@ -51,6 +50,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Backlog:
 - [ ] 📚 Aprender Vue (libro Jose + Escuela IT).
+- [ ] 🚀 Primeros ejemplos Vue en repositorio del [libro Vue Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details).
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
 - [ ] 📚 Leer libro "Getting Things done" de David Allen.
