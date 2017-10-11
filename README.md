@@ -21,7 +21,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cosas que haré esta semana:
 
 #### Semana 9-15 Octubre: Jotted ejemplo + Flexbox master, docs y gh-pages
-- [ ] 🚀 Ejemplos Flexbox en GitHub: master, docs, gh-pages y Jotted.
+- [x] 🚀 Ejemplos Flexbox en GitHub: master y Jotted.
+- [x] 🚀 Ejemplos Vue en GitHub: docs y gh-pages.
 
 ### Cosas que haré este mes:
 
