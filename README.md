@@ -24,10 +24,11 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18 Octubre).
 - [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
 - [ ] ✍️ Notas de los talleres en GitHub.
+- [ ] Buscar imágenes licencia libre sobre Méliès.
 
 ### Cosas que haré este mes:
 
-#### Semana 23-29 Octubre: Taller Comunicación + Guión charla
+### Semana 23-29 Octubre: Taller Comunicación + Guión charla
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre).
 - [ ] ✍️ Guión charla Codemotion: mezclar ilusionismo y aprendizaje con GitHub.
 
