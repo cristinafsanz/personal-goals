@@ -20,34 +20,34 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré esta semana:
 
-#### Semana 9-15 Octubre: Jotted ejemplo + Flexbox master, docs y gh-pages
-- [x] 🚀 Ejemplos Flexbox en GitHub: master y Jotted.
-- [x] 🚀 Ejemplos Vue en GitHub: docs y gh-pages.
-
-### Cosas que haré este mes:
-
 #### Semana 16-22 Octubre: Talleres Comunicación y Sketchnoting
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18 Octubre).
 - [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
-- [ ] 🚀 Taller Grid Layout EscuelaIT y añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
+- [ ] ✍️ Notas de los talleres en GitHub.
+
+### Cosas que haré este mes:
 
 #### Semana 23-29 Octubre: Taller Comunicación + Guión charla
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre).
-- [ ] ✍️ Guión charla Codemotion: Jotted con ejemplos + ahondar GitHub Pages + demos online/offline. ¿Incluir Mélies?
+- [ ] ✍️ Guión charla Codemotion: mezclar ilusionismo y aprendizaje con GitHub.
 
 ### Semana 30 Octubre-5 Noviembre: Slides
 
-- [ ] 🚀 Ampliar slides de TechShessions para Codemotion: Jotted con ejemplos + ahondar GitHub Pages + demos online/offline. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla.
+- [ ] 🚀 Slides para Codemotion: Jotted con ejemplos + ahondar GitHub Pages con repositorios vue + demos online/offline para abrir en pestaña nueva. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla.
 
 ### Semana 7-12 Noviembre: WTM Zaragoza
 
+- [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
+
 ### Semana 13-19 Noviembre: Practicar charla
 
-- 🙊 Practicar charla y ajustar tiempos para 30-35 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador.
+- [ ] 🙊 Practicar charla y ajustar tiempos para 30-35 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador.
 
-- Preparar kit Codemotion: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, chrome pantalla completa y agrandar/reducir legra, c 
+- [ ] 🚀 Preparar kit Codemotion en GitHub: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, chrome pantalla completa y agrandar/reducir legra.
 
 ### Semana 20-26 Noviembre: Codemotion
+
+- [ ] 🙊 Presentar charla en Codemotion
 
 ### Backlog:
 - [ ] 📚 Aprender Vue (libro Jose + Escuela IT).
