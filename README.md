@@ -24,24 +24,26 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18 Octubre).
 - [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
 - [ ] ✍️ Notas de los talleres en GitHub.
-- [ ] Buscar imágenes licencia libre sobre Méliès.
+- [ ] 🙊 Practicar 5 minutos charla.
+- [ ] 🚀 Versión con Travis de https://github.com/cristinafsanz/vue-gh-pages. Sacar ideas de la charla de Ángel: https://www.youtube.com/watch?v=-MXVtFwS6Gw.
+- [ ] 🚀 Probar autogeneración de tema con Jekyll al habilitar GitHub Pages.
+
 
 ### Cosas que haré este mes:
 
 ### Semana 23-29 Octubre: Taller Comunicación + Guión charla
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre).
 - [ ] ✍️ Guión charla Codemotion: mezclar ilusionismo y aprendizaje con GitHub.
+- [ ] Buscar imágenes licencia libre sobre Méliès.
 
 ### Semana 30 Octubre-5 Noviembre: Slides
-
 - [ ] 🚀 Slides para Codemotion: Jotted con ejemplos + ahondar GitHub Pages con repositorios vue + demos online/offline para abrir en pestaña nueva. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla.
 
-### Semana 7-12 Noviembre: WTM Zaragoza
 
+### Semana 7-12 Noviembre: WTM Zaragoza
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
 
 ### Semana 13-19 Noviembre: Practicar charla
-
 - [ ] 🙊 Practicar charla y ajustar tiempos para 30-35 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador.
 
 - [ ] 🚀 Preparar kit Codemotion en GitHub: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, chrome pantalla completa y agrandar/reducir legra.
