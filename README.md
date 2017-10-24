@@ -21,52 +21,44 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cosas que haré esta semana:
 
 #### Semana 23-29 Octubre: Taller Comunicación + Guión charla
+- [x] 🚀 Probar autogeneración de tema con Jekyll al habilitar GitHub Pages.
 - [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre).
 - [ ] ✍️ Notas curso Comunicación.
-- [ ] 🔍 Buscar imágenes licencia libre sobre Méliès.
-- [ ] ✍️ Aplicar método científico para preparar charla Codemotion.
-- [ ] 🚀 Probar autogeneración de tema con Jekyll al habilitar GitHub Pages.
-
+- [ ] ✍️ Preparar charla aplicando el método científico: ideas a partir de repositorios y [Kanban Taiga](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanban).
+- [ ] 🌊 Probar aplicación [REM Volver a casa](http://remvolveracasa.com/) sobre Mindfulness.
 
 ### Cosas que haré este mes:
 
 ### Semana 30 Octubre-5 Noviembre: Preparar slides
-- [ ] 🚀 Slides para Codemotion: Jotted con ejemplos + ahondar GitHub Pages con repositorios vue + demos online/offline para abrir en pestaña nueva. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla. Sketchnoting?
-
+- [ ] 🔍 Buscar imágenes licencia libre sobre Méliès y buscarle conexiones con la charla.
+- [ ] ✍️ Sketchnoting de los conceptos que no encuentre.
+- [ ] 🚀 Slides para Codemotion: Jotted con ejemplos + ahondar GitHub Pages con repositorios vue + demos online/offline para abrir en pestaña nueva. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla. 
 
 ### Semana 7-12 Noviembre: WTM Zaragoza
-- [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
+- [ ] 🚀 Escribir kit Codemotion en GitHub: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, Chrome pantalla completa y agrandar/reducir legra.
+- [ ] 🙊 Apuntar consejos charlas.
 
 ### Semana 13-19 Noviembre: Practicar charla
 - [ ] 🙊 Practicar charla y ajustar tiempos para 30-35 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador.
-- [ ] 🚀 Preparar kit Codemotion en GitHub: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, chrome pantalla completa y agrandar/reducir legra.
 
 ### Semana 20-26 Noviembre: Codemotion
-
 - [ ] 🙊 Presentar charla en Codemotion
 
 ### Backlog:
 - [ ] 📚 Aprender Vue (libro Jose + Escuela IT).
 - [ ] 🚀 Primeros ejemplos Vue en repositorio del [libro Vue Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details).
+- [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
 - [ ] 📚 Leer libro "Getting Things done" de David Allen.
-- [ ] 🚀 [Taller - Despliegue automático de un blog estático](https://moduslaborandi.net/2017/08/taller-despliegue-automatico-blog-estatico-i/).
 - [ ] 📚 ITCSS de EscuelaIT.
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 
 ### Viajes/Eventos:
-
 - [ ] 🚊 WTM Zaragoza (11 Noviembre).
 - [ ] 🚊 Codemotion Madrid (24-25 Noviembre).
-
-### Cursos:
-
-- [ ] 📚 [Taller Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout) (Jueves 28 Septiembre).
-- [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 16, 18, 23 y 25 Octubre).
-- [ ] 🎨 [Taller de Sketchnoting](https://www.dibujandocharlas.com/taller-sketchnoting-madrid/) (Sábado 21 Octubre).
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
