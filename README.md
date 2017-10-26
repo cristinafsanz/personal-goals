@@ -22,9 +22,10 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 #### Semana 23-29 Octubre: Taller Comunicación + Guión charla
 - [x] 🚀 Probar autogeneración de tema con Jekyll al habilitar GitHub Pages.
-- [ ] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre).
+- [x] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre).
 - [ ] ✍️ Notas curso Comunicación.
-- [ ] ✍️ Preparar charla aplicando el método científico: ideas a partir de repositorios y [Kanban Taiga](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanban).
+- [ ] 📖 Sacar ideas de PixarStorytelling: https://github.com/gomesfernanda/PixarStorytelling.
+- [ ] ✍️ Preparar charla aplicando el método científico: ideas a partir de repositorios, notas en correo y [Kanban Taiga](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanban).
 - [ ] 🌊 Probar aplicación [REM Volver a casa](http://remvolveracasa.com/) sobre Mindfulness.
 
 ### Cosas que haré este mes:
@@ -34,15 +35,21 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] ✍️ Sketchnoting de los conceptos que no encuentre.
 - [ ] 🚀 Slides para Codemotion: Jotted con ejemplos + ahondar GitHub Pages con repositorios vue + demos online/offline para abrir en pestaña nueva. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla. 
 
-### Semana 7-12 Noviembre: WTM Zaragoza
+### Semana 7-12 Noviembre: Mejorar comunicación verbal y no verbal + WTM Zaragoza
 - [ ] 🚀 Escribir kit Codemotion en GitHub: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, Chrome pantalla completa y agrandar/reducir legra.
 - [ ] 🙊 Apuntar consejos charlas.
+- [ ] 🙊 Visionar partes de charlas T3chfest, WTMMadrid, TechShessions y comunicación significativa para analizar qué mejorar.
+- [ ] 🌊 Practicar respiración abdominal.
+- [ ] 🙊 (1) Practicar vocalización y modularización de tono. (2). Reducir uso de ticks: ehhh, yyy, alargar palabras (hacer pausas en vez de eso). (3) Intentar sonreír más. (4) Mirar a la pantalla al terminar frase y no antes. (5) Moverme más por el espacio.
+- [ ] 🚊 WTM Zaragoza (10-12 Noviembre).
 
 ### Semana 13-19 Noviembre: Practicar charla
 - [ ] 🙊 Practicar charla y ajustar tiempos para 30-35 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador.
 
 ### Semana 20-26 Noviembre: Codemotion
-- [ ] 🙊 Presentar charla en Codemotion
+- [ ] 🚀 Revisar kit Codemotion.
+- [ ] 🙊 24 Nov: Presentar charla en Codemotion.
+- [ ] ☕️ Descansar (icono: relaxing cup of coffee...).
 
 ### Backlog:
 - [ ] 📚 Aprender Vue (libro Jose + Escuela IT).
