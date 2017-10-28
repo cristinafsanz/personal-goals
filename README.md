@@ -23,18 +23,17 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Semana 23-29 Octubre: Taller Comunicación + Guión charla
 - [x] 🚀 Probar autogeneración de tema con Jekyll al habilitar GitHub Pages.
 - [x] 🙊 [Taller Comunicación significativa](http://lanavenodriza.com/comunicacion-significativa/) (Lunes y Miércoles 23 y 25 Octubre).
+- [x] 🚀 Escribir kit Codemotion en GitHub: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, Chrome pantalla completa y agrandar/reducir legra.
+- [x] 🙊 Apuntar consejos charlas.
 - [x] ✍️ Sacar y agrupar ideas para estructurar la charla.
 - [ ] 😍😓 Equilibrar contraste entre contenido emocional y analítico.
-- [ ] 🚀 Escribir kit Codemotion en GitHub: slides (pendrive, online y local), adaptador vga+hdmi mac, pasador diapositivas, Chrome pantalla completa y agrandar/reducir legra.
-- [ ] 🙊 Apuntar consejos charlas.
-
 
 ### Cosas que haré este mes:
 
 ### Semana 30 Octubre-5 Noviembre: Preparar slides y escribir el discurso
 - [ ] 🔍 Buscar imágenes licencia libre sobre Méliès para la charla. Sketchnoting de los conceptos que no encuentre.
 - [ ] 🚀 Slides para Codemotion: Demos online/offline para abrir en pestaña nueva. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla. 
-- [ ] ✍️ Escribir el discurso (añadiendo notas para alternar material de apoyo en slides, como demos, dibujos, ...).
+- [ ] ✍️ Escribir el discurso (añadiendo notas para alternar material de apoyo en slides, como demos, dibujos, ...y notas para hacer pausas).
 
 ### Semana 7-12 Noviembre: Mejorar comunicación verbal y no verbal + WTM Zaragoza
 - [ ] 🙊 Visionar partes de charlas T3chfest, WTMMadrid, TechShessions y comunicación significativa para analizar qué mejorar.
