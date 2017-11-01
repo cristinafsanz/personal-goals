@@ -21,9 +21,10 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cosas que haré esta semana:
 
 #### Semana 30 Octubre-5 Noviembre: Preparar slides y escribir el discurso
-- [ ] 🔍 Buscar imágenes licencia libre sobre Méliès para la charla. Sketchnoting de los conceptos que no encuentre.
+- [ ] ✍️ Escribir el discurso (añadiendo notas para alternar material de apoyo en slides, como demos, dibujos, ...). Primero a mano y luego en GitHub.
+- [ ] 🔍 Buscar imágenes licencia libre sobre Méliès para la charla.
 - [ ] 🚀 Slides para Codemotion: Añadir slide de encabezado. Demos online/offline para abrir en pestaña nueva. Menos textos y evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla. 
-- [ ] ✍️ Escribir el discurso (añadiendo notas para alternar material de apoyo en slides, como demos, dibujos, ...y notas para hacer pausas).
+
 
 ### Cosas que haré este mes:
 
@@ -31,7 +32,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🙊 Visionar partes de charlas T3chfest, WTMMadrid, TechShessions y comunicación significativa para analizar qué mejorar.
 - [ ] 🌊 Probar aplicación [REM Volver a casa](http://remvolveracasa.com/) sobre Mindfulness. Practicar respiración abdominal.
 - [ ] 🙊 (1) Practicar vocalización y modularización de tono. (2). Reducir uso de ticks: ehhh, yyy, alargar palabras (hacer pausas en vez de eso). (3) Intentar sonreír más. (4) Mirar a la pantalla al terminar frase y no antes. (5) Moverme más por el espacio.
-- [ ] 🚊 WTM Zaragoza (10-12 Noviembre).
+- [ ] 🚊 Maleta para WTM Zaragoza (10-12 Noviembre)!
 
 ### Semana 13-19 Noviembre: Practicar charla
 - [ ] 🙊 Practicar charla y ajustar tiempos para 30 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador. Con pasador de diapositivas si lo tengo.
