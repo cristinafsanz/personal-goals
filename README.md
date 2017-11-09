@@ -22,15 +22,16 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 #### Semana 7-12 Noviembre: Slides charla + WTM Zaragoza
 
-- [ ] 🚀 Resto de slides para Codemotion: Evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla. 
+- [ ] 🚀 Slides para Codemotion: Evitar lo que no se pueda leer. Que las imágenes ocupen más espacio en la pantalla. 
 - [ ] 🚀 Mirar si hace falta poner demos offline y online: [Different remote and local resource URLs](http://lea.verou.me/2017/10/different-remote-and-local-resource-urls-with-service-workers/).
 - [ ] 🚊 Maleta para WTM Zaragoza (10-12 Noviembre)!
 
 ### Cosas que haré este mes:
 
 ### Semana 13-19 Noviembre: Practicar charla
-- [ ] 🙊 Practicar charla y ajustar tiempos para 30 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador. Con pasador de diapositivas si lo tengo.
+- [ ] 🚀 Slides Codemotion: Alternativas y Conclusión. Probarlas en local y online.
 - [ ] 🙊 Visionar partes de charlas T3chfest, WTMMadrid, TechShessions y comunicación significativa para analizar qué mejorar. Mirar el video sin sonido y fijarse en cómo se comunica con el cuerpo. Luego escucharlo sin mirarlo y ver cómo se comunica con la voz.
+- [ ] 🙊 Practicar charla y ajustar tiempos para 30 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador. Con pasador de diapositivas si lo tengo.
 - [ ] 🙊 (1) Practicar vocalización y modularización de tono. (2). Reducir uso de ticks: ehhh, yyy, alargar palabras (hacer pausas en vez de eso). (3) Intentar sonreír más. (4) Mirar a la pantalla al terminar frase y no antes. (5) Moverme más por el espacio.
 
 ### Semana 20-26 Noviembre: Codemotion
