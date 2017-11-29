@@ -51,7 +51,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
 - [ ] ✍️ Repo en inglés
 
-##### Leer libro para mejorar productividad
+#### Leer libro para mejorar productividad
 - [ ] 📚 Leer libro "Getting Things done" de David Allen.
 
 #### Acuarela y dibujo
