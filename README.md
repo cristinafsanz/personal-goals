@@ -9,48 +9,59 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
 - [Consejos proyectos personales](https://melies-hugo.js.org/post/practica-publica-aprende/).
 
-# Objetivos para curso 2017-2018
+## Objetivos para curso 2017-2018
 
-1. 📚 Mejorar en Front-end, arquitectura CSS y JavaScript.
-2. 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
-3. 💃 Seguir con pilates y hacer algo más de deporte.
-4. 🙊 Mejorar preparando y dando charlas.
-5. 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
-6. 😍 Planificar planes y viajes durante el año. Descansar.
+- 📚 Mejorar en Front-end, arquitectura CSS y JavaScript.
+- 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
+- 💃 Seguir con pilates y hacer algo más de deporte.
+- 😍 Planificar planes y viajes durante el año. Descansar.
+
+## Objetivos conseguidos 2017
+
+- 🙊 Mejorar preparando y dando charlas (charlas en T3chfest, WTM Madrid, TechShessions y Codemotion).
+- 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 
 ### Cosas que haré esta semana:
 
-#### Semana 13-19 Noviembre: Practicar charla
-- [x] 🚀 Slides Codemotion: Alternativas y Conclusión.
-- [ ] ✍️ Añadir algunas bromas en la charla.
-- [ ] 🙊 Visionar partes de charlas T3chfest, WTMMadrid, TechShessions y comunicación significativa para analizar qué mejorar. Mirar el video sin sonido y fijarse en cómo se comunica con el cuerpo. Luego escucharlo sin mirarlo y ver cómo se comunica con la voz.
-- [ ] 🙊 Practicar charla y ajustar tiempos para 30 minutos. Preparar sobre todo principio por los nervios. Cursor que no se vea en pantalla. Cargando y que no salga protector de pantalla. Mutear ordenador. Con pasador de diapositivas si lo tengo.
-- [ ] 🙊 (1) Practicar vocalización y modularización de tono. (2). Reducir uso de ticks: ehhh, yyy, alargar palabras (hacer pausas en vez de eso). (3) Intentar sonreír más. (4) Mirar a la pantalla al terminar frase y no antes. (5) Moverme más por el espacio.
+#### Semana 27 Noviembre - 3 Diciembre:
 
-### Cosas que haré este mes:
+- [ ] 🎨 Calendario físico del año que viene para apuntar planes.
 
-### Semana 20-26 Noviembre: Codemotion
-- [ ] 🚀 Revisar kit Codemotion para que no se olvide nada.
-- [ ] 🙊 Últimos ensayos charla para ajustar tiempos.
-- [ ] 🙊 24 Nov: Presentar charla en Codemotion.
-- [ ] ☕️ Descansar y disfrutar del resto de la conferencia (icono: relaxing cup of coffee...).
+### Cosas que haré este mes: Vue
+
+- [ ] 📚 Aprender Vue con el [libro de Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) haciendo todos los ejemplos y publicándolos en un repo.
+- [ ] 📚 Curso [Vue2 y Firebase](http://vue.wmedia.es/).
+- [ ] 📚 Curso Vue Escuela IT
 
 ### Backlog:
-- [ ] ✍️  Escribir en el [blog](https://melies-hugo.js.org/) sobre proceso de mejora comunicación con podcasts Presentástico y Humor en público, visualización charlas y alternar emoción y analítica.
-- [ ] 📚 Aprender Vue (libro Jose + Escuela IT).
-- [ ] 🚀 Primeros ejemplos Vue en repositorio del [libro Vue Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details).
+
+#### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
+
+#### Mejorar con JavaScript
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
-- [ ] 📚 Leer libro "Getting Things done" de David Allen.
+
+#### Mejorar con arquitectura CSS
 - [ ] 📚 ITCSS de EscuelaIT.
+- [ ] Charla Arquitectura CSS de Carmen e Ignacio: [Vídeo](https://www.youtube.com/watch?v=qnSbqv6rqx4) y [slides](http://wecodesignpodcast.com/speaking/#/).
+
+#### Mejorar documentación proyecto GitHub Pages
+- [ ] ✍️  Escribir en el [blog](https://melies-hugo.js.org/) sobre proceso de mejora comunicación con podcasts Presentástico y Humor en público, visualización charlas y alternar emoción y analítica.
+- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
+- [ ] ✍️ Repo en inglés
+
+##### Leer libro para mejorar productividad
+- [ ] 📚 Leer libro "Getting Things done" de David Allen.
+
+#### Acuarela y dibujo
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 
+
 ### Viajes/Eventos:
-- [ ] 🚊 WTM Zaragoza (11 Noviembre).
-- [ ] 🚊 Codemotion Madrid (24-25 Noviembre).
+- [ ] 🚊 Bilbostack (27 Enero)
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
