@@ -50,6 +50,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] ✍️  Escribir en el [blog](https://melies-hugo.js.org/) sobre proceso de mejora comunicación con podcasts Presentástico y Humor en público, visualización charlas y alternar emoción y analítica.
 - [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
 - [ ] ✍️ Repo en inglés
+- [ ] ✍️ Añadir explicación de Markdown
+- [ ] 👀 Versión mejorada de Jotted, ¿algo más parecido a Codepen para visualizar todas las pestañas a la vez? ¿Integración para visualizar un repo de GitHub en Codepen?
 
 #### Leer libro para mejorar productividad
 - [ ] 📚 Leer libro "Getting Things done" de David Allen.
