@@ -21,17 +21,15 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 🙊 Mejorar preparando y dando charlas (charlas en T3chfest, WTM Madrid, TechShessions y Codemotion).
 - 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 
-### Cosas que haré esta semana:
-
-#### Semana 27 Noviembre - 3 Diciembre:
-
-- [ ] 🎨 Calendario físico del año que viene para apuntar planes.
-
-### Cosas que haré este mes: Vue
+### Cosas que haré este mes (Diciembre): Vue
 
 - [ ] 📚 Aprender Vue con el [libro de Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) haciendo todos los ejemplos y publicándolos en un repo.
 - [ ] 📚 Curso [Vue2 y Firebase](http://vue.wmedia.es/).
 - [ ] 📚 Curso Vue Escuela IT
+- [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
+- [ ] 🚀 Charla Sirikon: [slides](http://slides.com/sirikon/a-new-point-of-vue#/), [ejemplos](https://gitlab.com/Sirikon/a-new-point-of-vue-examples/) y más [ejemplos](https://github.com/sirikon/vue-examples).
+- [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling)
+- [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
 
 ### Backlog:
 
@@ -41,10 +39,23 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Mejorar con JavaScript
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
+- [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
+- [ ] 📚 [PlainJS](https://plainjs.com/).
 
 #### Mejorar con arquitectura CSS
 - [ ] 📚 ITCSS de EscuelaIT.
-- [ ] Charla Arquitectura CSS de Carmen e Ignacio: [Vídeo](https://www.youtube.com/watch?v=qnSbqv6rqx4) y [slides](http://wecodesignpodcast.com/speaking/#/).
+- [ ] 📚 Charla Arquitectura CSS de Carmen e Ignacio: [Vídeo](https://www.youtube.com/watch?v=qnSbqv6rqx4) y [slides](http://wecodesignpodcast.com/speaking/#/).
+
+#### Mejorar con preprocesadores
+- [ ] 📚 [Recomendaciones Frontaneria](https://github.com/Frontaneria/Open-Support/issues/6)
+- [ ] 📚 Aprender casos de uso Sass
+
+#### HTML
+- [ ] 📚 [Etiquetas HTML](http://slides.com/ancoar/eligiendotagshtml5#/13).
+
+#### Terminal
+- [ ] 🚀 [Nucliweb](https://desarrolloweb.com/articulos/personalizacion-terminal-bash-it-iterm2.html)
 
 #### Mejorar documentación proyecto GitHub Pages
 - [ ] ✍️  Escribir en el [blog](https://melies-hugo.js.org/) sobre proceso de mejora comunicación con podcasts Presentástico y Humor en público, visualización charlas y alternar emoción y analítica.
