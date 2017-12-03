@@ -30,6 +30,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 Charla Sirikon: [slides](http://slides.com/sirikon/a-new-point-of-vue#/), [ejemplos](https://gitlab.com/Sirikon/a-new-point-of-vue-examples/) y más [ejemplos](https://github.com/sirikon/vue-examples).
 - [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling)
 - [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
+- [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
 
 ### Backlog:
 
