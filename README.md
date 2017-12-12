@@ -43,6 +43,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
 - [ ] 📚 [PlainJS](https://plainjs.com/).
+- [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
 
 #### Mejorar con arquitectura CSS
 - [ ] 📚 ITCSS de EscuelaIT.
