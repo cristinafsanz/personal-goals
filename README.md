@@ -23,14 +23,18 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré este mes (Diciembre): Vue
 
-- [ ] 📚 Aprender Vue con el [libro de Jose Dongil](https://www.gitbook.com/book/jdonsan/desarrolla-aplicaciones-con-vuejs/details) haciendo todos los ejemplos y publicándolos en un repo.
-- [ ] 📚 Curso [Vue2 y Firebase](http://vue.wmedia.es/).
-- [ ] 📚 Curso Vue Escuela IT
-- [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
-- [ ] 🚀 Charla Sirikon: [slides](http://slides.com/sirikon/a-new-point-of-vue#/), [ejemplos](https://gitlab.com/Sirikon/a-new-point-of-vue-examples/) y más [ejemplos](https://github.com/sirikon/vue-examples).
-- [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling)
-- [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
-- [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
+- [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
+- Revisar ejemplos Vue:
+    - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
+    - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
+    - [ ] 🚀 [Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
+    - [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
+    - [ ] 🚀 [Vue Trello Carlos Azaustre](https://github.com/carlosazaustre/vue-trello).
+    - [ ] 🚀 [VueJS by example](https://github.com/Lemoncode/vuejs-by-sample).
+    - [ ] 🚀 Charla Sirikon: [slides](http://slides.com/sirikon/a-new-point-of-vue#/), [ejemplos](https://gitlab.com/Sirikon/a-new-point-of-vue-examples/) y más [ejemplos](https://github.com/sirikon/vue-examples).
+    - [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling)
+    - [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
+    - [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
 
 ### Backlog:
 
