@@ -14,11 +14,12 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 📚 Mejorar en Front-end, arquitectura CSS y JavaScript.
 - 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 - 💃 Seguir con pilates y hacer algo más de deporte.
+- 📚 Recuperar un poco el alemán leyendo "Die Analphabetin, die rechnen konnte".
 - 😍 Planificar planes y viajes durante el año. Descansar.
 
 ## Objetivos conseguidos 2017
 
-- 🙊 Mejorar preparando y dando charlas (charlas en T3chfest, WTM Madrid, TechShessions y Codemotion).
+- 🙊 Mejorar preparando charlas (charlas hechas en T3chfest, WTM Madrid, TechShessions y Codemotion).
 - 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 
 ### Cosas que haré este mes (Diciembre): Vue
