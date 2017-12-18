@@ -14,7 +14,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 📚 Mejorar en Front-end, arquitectura CSS y JavaScript.
 - 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 - 💃 Seguir con pilates y hacer algo más de deporte.
-- 📚 Recuperar un poco el alemán leyendo "Die Analphabetin, die rechnen konnte".
 - 😍 Planificar planes y viajes durante el año. Descansar.
 
 ## Objetivos conseguidos 2017
@@ -22,22 +21,32 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 🙊 Mejorar preparando charlas (charlas hechas en T3chfest, WTM Madrid, TechShessions y Codemotion).
 - 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 
-### Cosas que haré este mes (Diciembre): Vue
+### Cosas que haré en Navidad: Vue + alemán + acuarelas
 
 - [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
-- Revisar ejemplos Vue:
-    - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
-    - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
-    - [ ] 🚀 [Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
-    - [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
-    - [ ] 🚀 [Vue Trello Carlos Azaustre](https://github.com/carlosazaustre/vue-trello).
-    - [ ] 🚀 [VueJS by example](https://github.com/Lemoncode/vuejs-by-sample).
-    - [ ] 🚀 Charla Sirikon: [slides](http://slides.com/sirikon/a-new-point-of-vue#/), [ejemplos](https://gitlab.com/Sirikon/a-new-point-of-vue-examples/) y más [ejemplos](https://github.com/sirikon/vue-examples).
-    - [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling)
-    - [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
-    - [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
+- [ ] 📚 Recuperar un poco el alemán leyendo "Die Analphabetin, die rechnen konnte".
+- [ ] 🎨 Copiar algún dibujo y pintarla en acuarela sin técnica ninguna, sólo por probar.
 
 ### Backlog:
+
+#### Revisar Ejemplos Vue
+- [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
+- [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
+- [ ] 🚀 [Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
+- [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
+- [ ] 🚀 [Vue Trello Carlos Azaustre](https://github.com/carlosazaustre/vue-trello).
+- [ ] 🚀 [VueJS by example](https://github.com/Lemoncode/vuejs-by-sample).
+- [ ] 🚀 Charla Sirikon: [slides](http://slides.com/sirikon/a-new-point-of-vue#/), [ejemplos](https://gitlab.com/Sirikon/a-new-point-of-vue-examples/) y más [ejemplos](https://github.com/sirikon/vue-examples).
+- [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling)
+- [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
+- [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
+
+#### Mejorar documentación proyecto GitHub Pages
+- [ ] ✍️  Escribir en el [blog](https://melies-hugo.js.org/) sobre proceso de mejora comunicación con podcasts Presentástico y Humor en público, visualización charlas y alternar emoción y analítica.
+- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
+- [ ] ✍️ Repo en inglés
+- [ ] ✍️ Añadir explicación de Markdown
+- [ ] 👀 Versión mejorada de Jotted, ¿algo más parecido a Codepen para visualizar todas las pestañas a la vez? ¿Integración para visualizar un repo de GitHub en Codepen?
 
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
@@ -63,13 +72,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 #### Terminal
 - [ ] 🚀 [Nucliweb](https://desarrolloweb.com/articulos/personalizacion-terminal-bash-it-iterm2.html)
-
-#### Mejorar documentación proyecto GitHub Pages
-- [ ] ✍️  Escribir en el [blog](https://melies-hugo.js.org/) sobre proceso de mejora comunicación con podcasts Presentástico y Humor en público, visualización charlas y alternar emoción y analítica.
-- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
-- [ ] ✍️ Repo en inglés
-- [ ] ✍️ Añadir explicación de Markdown
-- [ ] 👀 Versión mejorada de Jotted, ¿algo más parecido a Codepen para visualizar todas las pestañas a la vez? ¿Integración para visualizar un repo de GitHub en Codepen?
 
 #### Leer libro para mejorar productividad
 - [ ] 📚 Leer libro "Getting Things done" de David Allen.
