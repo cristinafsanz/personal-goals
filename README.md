@@ -79,6 +79,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
 
 #### Mejorar con arquitectura CSS
+- [ ] [Consejos arquitectura CSS](https://github.com/jareware/css-architecture).
 - [ ] 📚 ITCSS de EscuelaIT.
 - [ ] 📚 Charla Arquitectura CSS de Carmen e Ignacio: [Vídeo](https://www.youtube.com/watch?v=qnSbqv6rqx4) y [slides](http://wecodesignpodcast.com/speaking/#/).
 
