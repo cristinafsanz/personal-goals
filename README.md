@@ -28,8 +28,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Semana 26-30 Diciembre
 
 - [ ] ✍️ Enviar presentación y duración aproximada charla Adalab: Experiencia de participación e involucración en la comunidad (más énfasis en twitter). 12.15 a 14h y 15 a 16.45h [Versión anterior](https://docs.google.com/presentation/d/1cGfuyztXQs0tQHNRUFLBI9ppgz6UJfMZ637-yBAc8gI/edit#slide=id.gc6f59039d_0_0).
-- [ ] 🏃 Cambiar reintegro lotería y regalos reyes: [TOYMYTOY](https://www.amazon.es/gp/product/B071RDJHQQ?colid=39A0ICCOXZAJB&coliid=IAKU7YRRK530P), [mordedor](https://www.amazon.es/gp/product/B000VDB26M?colid=39A0ICCOXZAJB&coliid=IGX819EAQ3H5K).
+- [ ] [Espectáculo Impro Al Tran trán](https://www.altrantranimpro.com/) (28 Diciembre).
 - [ ] 🎨 Exposición Alphonse Mucha (29 Diciembre).
+- [ ] 🏃 Cambiar reintegro lotería y regalos reyes: [TOYMYTOY](https://www.amazon.es/gp/product/B071RDJHQQ?colid=39A0ICCOXZAJB&coliid=IAKU7YRRK530P), [mordedor](https://www.amazon.es/gp/product/B000VDB26M?colid=39A0ICCOXZAJB&coliid=IGX819EAQ3H5K).
 
 #### Semana 2-5 Enero
 - [ ] 📚 Probar Poi para Vue: [Scaffold a Vue.js app with Poi](https://alligator.io/vuejs/vue-scaffold-poi/).
