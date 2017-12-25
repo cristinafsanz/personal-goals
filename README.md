@@ -14,18 +14,33 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 📚 Mejorar en Front-end, arquitectura CSS y JavaScript.
 - 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 - 💃 Seguir con pilates y hacer algo más de deporte.
+- 🍗 Probar recetas nuevas.
 - 😍 Planificar planes y viajes durante el año. Descansar.
+- 🐾 Investigar sobre la ruta del Modernismo.
 
 ## Objetivos conseguidos 2017
 
 - 🙊 Mejorar preparando charlas (charlas hechas en T3chfest, WTM Madrid, TechShessions y Codemotion).
 - 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 
-### Cosas que haré en Navidad: Vue + alemán + acuarelas
+### Cosas que haré en Navidad: Charla + Vue
 
+#### Semana 26-30 Diciembre
+
+- [ ] ✍️ Enviar presentación y duración aproximada charla Adalab: Experiencia de participación e involucración en la comunidad (más énfasis en twitter). 12.15 a 14h y 15 a 16.45h [Versión anterior](https://docs.google.com/presentation/d/1cGfuyztXQs0tQHNRUFLBI9ppgz6UJfMZ637-yBAc8gI/edit#slide=id.gc6f59039d_0_0).
+- [ ] 🏃 Cambiar reintegro lotería y regalos reyes: [TOYMYTOY](https://www.amazon.es/gp/product/B071RDJHQQ?colid=39A0ICCOXZAJB&coliid=IAKU7YRRK530P), [mordedor](https://www.amazon.es/gp/product/B000VDB26M?colid=39A0ICCOXZAJB&coliid=IGX819EAQ3H5K).
+- [ ] 🎨 Exposición Alphonse Mucha (29 Diciembre).
+
+#### Semana 2-5 Enero
+- [ ] 📚 Probar Poi para Vue: [Scaffold a Vue.js app with Poi](https://alligator.io/vuejs/vue-scaffold-poi/).
 - [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
 - [ ] 📚 Recuperar un poco el alemán leyendo "Die Analphabetin, die rechnen konnte".
-- [ ] 🎨 Copiar algún dibujo y pintarla en acuarela sin técnica ninguna, sólo por probar.
+- [ ] 🎨 Acuarela para Irene: Copiar algún dibujo y pintarla en acuarela sin técnica ninguna, sólo por probar.
+
+### Enero 2018
+
+- [ ] ⚡️ Maratón películas Harry Potter para ver antes de la exposición.
+- [ ] 🚀 Charla GitHub Pages ampliada.
 
 ### Backlog:
 
@@ -40,13 +55,16 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling)
 - [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
 - [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
+- [ ] 👀 Charla [Animating Vue](https://www.youtube.com/watch?v=Vp37fWKOlV4).
 
 #### Mejorar documentación proyecto GitHub Pages
-- [ ] ✍️  Escribir en el [blog](https://melies-hugo.js.org/) sobre proceso de mejora comunicación con podcasts Presentástico y Humor en público, visualización charlas y alternar emoción y analítica.
-- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
-- [ ] ✍️ Repo en inglés
-- [ ] ✍️ Añadir explicación de Markdown
+- [ ] Truco de sustitución en vez de truco de parar.
+- [ ] 🚀 [Publish files to a gh-pages](https://www.npmjs.com/package/gh-pages): Usar el cli (gh-pages) que ellos ya te dan (viene en la sección Command Line Utility al final de la documentación).
+- [ ] ✍️ Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
 - [ ] 👀 Versión mejorada de Jotted, ¿algo más parecido a Codepen para visualizar todas las pestañas a la vez? ¿Integración para visualizar un repo de GitHub en Codepen?
+- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
+- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
+- [ ] ✍️ Repo en inglés?
 
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
@@ -83,7 +101,14 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 
 ### Viajes/Eventos:
+- [ ] 🙊 Charla Adalab (8 enero)
+- [ ] 🐣 Codenares Lite (17 Enero)
 - [ ] 🚊 Bilbostack (27 Enero)
+- [ ] ⚡️ Exposición Harry Potter (3 Febrero)
+- [ ] 👯 Billy Elliot (1 Marzo)
+- [ ] ¿Pamplona 10 Marzo?
+- [ ] ¿Primera semana Agosto Francia?
+- [ ] ¿Chicago?
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
