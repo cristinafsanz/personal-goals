@@ -41,6 +41,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🙊 Charla Adalab (8 enero)
 - [ ] 🐣 Codenares Lite (17 Enero)
 - [ ] 🚀 Preparar charla GitHub Pages ampliada.
+- [ ] Continuar la [tetralogía del cementerio de los libros olvidados](https://www.casadellibro.com/ebook-tetralogia-el-cementerio-de-los-libros-olvidados-pack-ebook/9788408167716/4784473).
 - [ ] ⚡️ Maratón películas Harry Potter para ver antes de la exposición.
 
 ### Backlog:
@@ -101,6 +102,22 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 
+### Series
+- [ ] 👀 Dark
+- [ ] 👀 This is us
+- [ ] 👀 You're the Worst 
+- [ ] 👀 Halt and Catch Fire
+
+### Películas
+- [ ] 👀 La ciencia del sueño (mismo director de Olvídate de mí)
+- [ ] 👀 Documental "Jim & Andy"
+- [ ] 👀 Madre
+- [ ] 👀 Relatos salvajes
+
+### Libros
+- [ ] 📚 Trilogía de Baztán
+- [ ] 📚 'Femenismo para principiantes' de Nuria Varela
+- [ ] 📚 El Segador - Terry Pratchet
 
 ### Viajes/Eventos:
 - [ ] 🚊 Bilbostack (27 Enero)
