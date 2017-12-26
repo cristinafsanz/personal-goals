@@ -30,18 +30,18 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] ✍️ Enviar presentación y duración aproximada charla Adalab: Experiencia de participación e involucración en la comunidad (más énfasis en twitter). 12.15 a 14h y 15 a 16.45h [Versión anterior](https://docs.google.com/presentation/d/1cGfuyztXQs0tQHNRUFLBI9ppgz6UJfMZ637-yBAc8gI/edit#slide=id.gc6f59039d_0_0).
 - [ ] [Espectáculo Impro Al Tran trán](https://www.altrantranimpro.com/) (28 Diciembre).
 - [ ] 🎨 Exposición Alphonse Mucha (29 Diciembre).
-- [ ] 🏃 Cambiar reintegro lotería y regalos reyes: [TOYMYTOY](https://www.amazon.es/gp/product/B071RDJHQQ?colid=39A0ICCOXZAJB&coliid=IAKU7YRRK530P), [mordedor](https://www.amazon.es/gp/product/B000VDB26M?colid=39A0ICCOXZAJB&coliid=IGX819EAQ3H5K).
 
-#### Semana 2-5 Enero
+#### Semana 2-7 Enero
 - [ ] 📚 Probar Poi para Vue: [Scaffold a Vue.js app with Poi](https://alligator.io/vuejs/vue-scaffold-poi/).
 - [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
 - [ ] 📚 Recuperar un poco el alemán leyendo "Die Analphabetin, die rechnen konnte".
 - [ ] 🎨 Acuarela para Irene: Copiar algún dibujo y pintarla en acuarela sin técnica ninguna, sólo por probar.
 
 ### Enero 2018
-
+- [ ] 🙊 Charla Adalab (8 enero)
+- [ ] 🐣 Codenares Lite (17 Enero)
+- [ ] 🚀 Preparar charla GitHub Pages ampliada.
 - [ ] ⚡️ Maratón películas Harry Potter para ver antes de la exposición.
-- [ ] 🚀 Charla GitHub Pages ampliada.
 
 ### Backlog:
 
@@ -103,14 +103,10 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 
 ### Viajes/Eventos:
-- [ ] 🙊 Charla Adalab (8 enero)
-- [ ] 🐣 Codenares Lite (17 Enero)
 - [ ] 🚊 Bilbostack (27 Enero)
 - [ ] ⚡️ Exposición Harry Potter (3 Febrero)
+- [ ] ¿Frontfest? (17 Febrero)
 - [ ] 👯 Billy Elliot (1 Marzo)
-- [ ] ¿Pamplona 10 Marzo?
-- [ ] ¿Primera semana Agosto Francia?
-- [ ] ¿Chicago?
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
