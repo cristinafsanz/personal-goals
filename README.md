@@ -9,14 +9,14 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
 - [Consejos proyectos personales](https://melies-hugo.js.org/post/practica-publica-aprende/).
 
-## Objetivos para curso 2017-2018
+## Objetivos para 2018
 
-- 📚 Mejorar en Front-end, arquitectura CSS y JavaScript.
+- 📚 Mejorar en Front-end: CSS (Flexbox y Grid Layout) y JavaScript (ES6 y Vue).
+- 🙊 Año de descanso de charlas (sólo repetir charla GitHub Pages para que se grabe).
 - 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 - 💃 Seguir con pilates y hacer algo más de deporte.
-- 🍗 Probar recetas nuevas.
+- 🍴 Cocinar recetas nuevas.
 - 😍 Planificar planes y viajes durante el año. Descansar.
-- 🐾 Investigar sobre la ruta del Modernismo.
 
 ## Objetivos conseguidos 2017
 
@@ -25,23 +25,16 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Cosas que haré en Navidad: Charla + Vue
 
-#### Semana 26-30 Diciembre
-
-- [ ] ✍️ Enviar presentación y duración aproximada charla Adalab: Experiencia de participación e involucración en la comunidad (más énfasis en twitter). 12.15 a 14h y 15 a 16.45h [Versión anterior](https://docs.google.com/presentation/d/1cGfuyztXQs0tQHNRUFLBI9ppgz6UJfMZ637-yBAc8gI/edit#slide=id.gc6f59039d_0_0).
-- [ ] [Espectáculo Impro Al Tran trán](https://www.altrantranimpro.com/) (28 Diciembre).
-- [ ] 🎨 Exposición Alphonse Mucha (29 Diciembre).
-
 #### Semana 2-7 Enero
 - [ ] 📚 Probar Poi para Vue: [Scaffold a Vue.js app with Poi](https://alligator.io/vuejs/vue-scaffold-poi/).
 - [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
 - [ ] 📚 Recuperar un poco el alemán leyendo "Die Analphabetin, die rechnen konnte".
 - [ ] 🎨 Acuarela para Irene: Copiar algún dibujo y pintarla en acuarela sin técnica ninguna, sólo por probar.
+- [ ] 🙊  Repasar charla Adalab
 
 ### Enero 2018
-- [ ] 🙊 Charla Adalab (8 enero)
-- [ ] 🐣 Codenares Lite (17 Enero)
-- [ ] 🚀 Preparar charla GitHub Pages ampliada.
-- [ ] Continuar la [tetralogía del cementerio de los libros olvidados](https://www.casadellibro.com/ebook-tetralogia-el-cementerio-de-los-libros-olvidados-pack-ebook/9788408167716/4784473).
+- [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
+- [ ] 🚀 Preparar charla GitHub Pages con algunas mejoras.
 - [ ] ⚡️ Maratón películas Harry Potter para ver antes de la exposición.
 
 ### Backlog:
@@ -59,14 +52,13 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
 - [ ] 👀 Charla [Animating Vue](https://www.youtube.com/watch?v=Vp37fWKOlV4).
 
-#### Mejorar documentación proyecto GitHub Pages
+#### Mejoras proyecto GitHub Pages
 - [ ] Truco de sustitución en vez de truco de parar.
 - [ ] 🚀 [Publish files to a gh-pages](https://www.npmjs.com/package/gh-pages): Usar el cli (gh-pages) que ellos ya te dan (viene en la sección Command Line Utility al final de la documentación).
 - [ ] ✍️ Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
 - [ ] 👀 Versión mejorada de Jotted, ¿algo más parecido a Codepen para visualizar todas las pestañas a la vez? ¿Integración para visualizar un repo de GitHub en Codepen?
 - [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
 - [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
-- [ ] ✍️ Repo en inglés?
 
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
@@ -103,21 +95,23 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 
 ### Series
-- [ ] 👀 Dark
-- [ ] 👀 This is us
-- [ ] 👀 You're the Worst 
-- [ ] 👀 Halt and Catch Fire
+- [ ] 👀 Dark.
+- [ ] 👀 This is us.
+- [ ] 👀 You're the Worst.
+- [ ] 👀 Halt and Catch Fire.
 
 ### Películas
-- [ ] 👀 La ciencia del sueño (mismo director de Olvídate de mí)
-- [ ] 👀 Documental "Jim & Andy"
-- [ ] 👀 Madre
-- [ ] 👀 Relatos salvajes
+- [ ] 👀 La ciencia del sueño (mismo director de Olvídate de mí).
+- [ ] 👀 Documental "Jim & Andy".
+- [ ] 👀 Madre.
+- [ ] 👀 Relatos salvajes.
 
 ### Libros
-- [ ] 📚 Trilogía de Baztán
-- [ ] 📚 'Femenismo para principiantes' de Nuria Varela
-- [ ] 📚 El Segador - Terry Pratchet
+- [ ] 📚 Continuar la [tetralogía del cementerio de los libros olvidados](https://www.casadellibro.com/ebook-tetralogia-el-cementerio-de-los-libros-olvidados-pack-ebook/9788408167716/4784473).
+- [ ] 📚 La vida imaginaria, Mara Torres.
+- [ ] 📚 Trilogía de Baztán.
+- [ ] 📚 'Femenismo para principiantes' de Nuria Varela.
+- [ ] 📚 El Segador - Terry Pratchet.
 
 ### Viajes/Eventos:
 - [ ] 🚊 Bilbostack (27 Enero)
