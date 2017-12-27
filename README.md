@@ -26,11 +26,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Cosas que haré en Navidad: Charla + Vue
 
 #### Semana 2-7 Enero
-- [ ] 📚 Probar Poi para Vue: [Scaffold a Vue.js app with Poi](https://alligator.io/vuejs/vue-scaffold-poi/).
-- [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
-- [ ] 📚 Recuperar un poco el alemán leyendo "Die Analphabetin, die rechnen konnte".
+- [ ] 📚 Vue: Probar [Poi](https://alligator.io/vuejs/vue-scaffold-poi/) y empezar curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
+- [ ] 🙊 Repasar charla Adalab.
 - [ ] 🎨 Acuarela para Irene: Copiar algún dibujo y pintarla en acuarela sin técnica ninguna, sólo por probar.
-- [ ] 🙊  Repasar charla Adalab
 
 ### Enero 2018
 - [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
