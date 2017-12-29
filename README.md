@@ -29,7 +29,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📚 Vue: Probar [Poi](https://alligator.io/vuejs/vue-scaffold-poi/) y empezar curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226). 
 - [ ] 🚀 Crear JavaScript playground para probar ES6 (reduce, arrow functions, ...).
 - [ ] 🙊 Repasar charla Adalab.
-- [ ] 🎨 Acuarela para Irene: Copiar algún dibujo y pintarla en acuarela sin técnica ninguna, sólo por probar.
+- [ ] 🎨 [Pintar con acuarela](http://www.sleepydays.es/2016/05/aprender-a-pintar-con-acuarela.html).
 
 ### Enero 2018
 - [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
