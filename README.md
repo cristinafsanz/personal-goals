@@ -115,12 +115,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📚 'Feminismo para principiantes' de Nuria Varela.
 - [ ] 📚 El Segador - Terry Pratchet.
 
-### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
-- [ ] Bilbao
-- [ ] ¿Abril [Copenhague-Estocolmo](http://www.naturalezayviajes.com/2013/07/guia-para-viajar-copenague-y-estocolmo.html)?
-- [ ] Agosto St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
-- [ ] ¿Chicago?
-
 ### Recetas
 - [ ] Hummus
 - [ ] Croquetas ligeras de zanahoria
@@ -137,6 +131,14 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] ⚡️ Exposición Harry Potter (3 Febrero)
 - [ ] ¿Frontfest? (17 Febrero)
 - [ ] 👯 Billy Elliot (1 Marzo)
+
+### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
+- [ ] Bilbao
+- [ ] ¿Marzo visita Pamplona?
+- [ ] ¿Abril Viaje Londres?
+- [ ] Agosto St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
+- [ ] ¿[Copenhague-Estocolmo](http://www.naturalezayviajes.com/2013/07/guia-para-viajar-copenague-y-estocolmo.html)?
+- [ ] ¿Chicago visita prima?
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
