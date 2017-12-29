@@ -52,6 +52,14 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
 - [ ] 👀 Charla [Animating Vue](https://www.youtube.com/watch?v=Vp37fWKOlV4).
 
+#### Mejorar con JavaScript
+- [ ] 📚 [JavaScript30](https://javascript30.com/).
+- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
+- [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
+- [ ] 📚 [PlainJS](https://plainjs.com/).
+- [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
+
 #### Mejoras proyecto GitHub Pages
 - [ ] Truco de sustitución en vez de truco de parar.
 - [ ] 🚀 [Publish files to a gh-pages](https://www.npmjs.com/package/gh-pages): Usar el cli (gh-pages) que ellos ya te dan (viene en la sección Command Line Utility al final de la documentación).
@@ -62,14 +70,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
-
-#### Mejorar con JavaScript
-- [ ] 📚 [JavaScript30](https://javascript30.com/).
-- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
-- [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-- [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
-- [ ] 📚 [PlainJS](https://plainjs.com/).
-- [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
 
 #### Mejorar con arquitectura CSS
 - [ ] [Consejos arquitectura CSS](https://github.com/jareware/css-architecture).
