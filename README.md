@@ -23,11 +23,11 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 🙊 Mejorar preparando charlas (charlas hechas en T3chfest, WTM Madrid, TechShessions y Codemotion).
 - 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 
-### Cosas que haré en Navidad: Charla + Vue
+## Organización semanal
 
-#### Semana 2-7 Enero
+### Semana 2-7 Enero: Vue + Acuarelas
 - [ ] 📚 Vue: Probar [Poi](https://alligator.io/vuejs/vue-scaffold-poi/) y empezar curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226). 
-- [ ] 👀 [Ver charla Vue Jose Dongil](https://www.youtube.com/watch?v=7ftXSVWOwcg).
+- [ ] 🚀 Crear JavaScript playground para probar ES6 (reduce, arrow functions, ...).
 - [ ] 🙊 Repasar charla Adalab.
 - [ ] 🎨 Acuarela para Irene: Copiar algún dibujo y pintarla en acuarela sin técnica ninguna, sólo por probar.
 
@@ -39,6 +39,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Backlog:
 
 #### Revisar Ejemplos Vue
+- [ ] 👀 [Ver charla Vue Jose Dongil](https://www.youtube.com/watch?v=7ftXSVWOwcg).
 - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
 - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
 - [ ] 🚀 [Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
@@ -93,6 +94,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
 
+## Listas personales
+
 ### Series
 - [ ] 👀 Dark.
 - [ ] 👀 This is us.
@@ -100,8 +103,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 👀 Halt and Catch Fire.
 
 ### Películas
+- [ ] 👀 La librería (Isabel Coixet).
 - [ ] 👀 La ciencia del sueño (mismo director de Olvídate de mí).
-- [ ] 👀 Documental "Jim & Andy".
 - [ ] 👀 Madre.
 - [ ] 👀 Relatos salvajes.
 
@@ -109,10 +112,27 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 📚 Continuar la [tetralogía del cementerio de los libros olvidados](https://www.casadellibro.com/ebook-tetralogia-el-cementerio-de-los-libros-olvidados-pack-ebook/9788408167716/4784473).
 - [ ] 📚 La vida imaginaria, Mara Torres.
 - [ ] 📚 Trilogía de Baztán.
-- [ ] 📚 'Femenismo para principiantes' de Nuria Varela.
+- [ ] 📚 'Feminismo para principiantes' de Nuria Varela.
 - [ ] 📚 El Segador - Terry Pratchet.
 
-### Viajes/Eventos:
+### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
+- [ ] Bilbao
+- [ ] ¿Abril [Copenhague-Estocolmo](http://www.naturalezayviajes.com/2013/07/guia-para-viajar-copenague-y-estocolmo.html)?
+- [ ] Agosto St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
+- [ ] ¿Chicago?
+
+### Recetas
+- [ ] Hummus
+- [ ] Croquetas ligeras de zanahoria
+- [ ] Crema suave de patata con salmón ahumado
+- [ ] Salmorejo
+- [ ] Musaka griega
+- [ ] Filetes de lomo en salsa de setas
+- [ ] Buñuelos ligeros de bacalao y patata
+- [ ] Salmón al horno con bechamel de langostinos.
+- [ ] Tarta de queso
+
+### Eventos:
 - [ ] 🚊 Bilbostack (27 Enero)
 - [ ] ⚡️ Exposición Harry Potter (3 Febrero)
 - [ ] ¿Frontfest? (17 Febrero)
