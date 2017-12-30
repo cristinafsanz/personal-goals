@@ -30,6 +30,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 Crear JavaScript playground para probar ES6 (reduce, arrow functions, ...).
 - [ ] 🙊 Repasar charla Adalab.
 - [ ] 🎨 [Pintar con acuarela](http://www.sleepydays.es/2016/05/aprender-a-pintar-con-acuarela.html).
+- [ ] Recopilar info de fotos y notas sobre [museos sobre fin de siglo XIX en París](https://twitter.com/cristinafsanz/status/947062979484405760). Méliès, Lautrec, autores fin de siglo del Guggenheim y Mucha. Pintar en acuarela basado en esto :)
 
 ### Enero 2018
 - [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
