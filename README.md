@@ -9,9 +9,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [Cómo ser disciplinado](https://www.youtube.com/watch?v=I6may1U-xKk).
 - [Consejos proyectos personales](https://melies-hugo.js.org/post/practica-publica-aprende/).
 
-## Objetivos para 2018
+## Objetivos para 2018: [Cuidarme y ser feliz](https://twitter.com/dreamingechoes/status/937326848438042626)
 
-- 📚 Mejorar en Front-end: CSS (Flexbox y Grid Layout) y JavaScript (ES6 y Vue).
+- 📚 Mejorar en Front-end: JavaScript (ES6 y Vue) y CSS (Flexbox y Grid Layout).
 - 🙊 Año de descanso de charlas (sólo repetir charla GitHub Pages para que se grabe).
 - 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 - 💃 Seguir con pilates y hacer algo más de deporte.
