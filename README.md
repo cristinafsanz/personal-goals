@@ -75,6 +75,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
+- [ ] [Curso CSS Grid Layout](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098).
 
 #### Mejorar con arquitectura CSS
 - [ ] [Consejos arquitectura CSS](https://github.com/jareware/css-architecture).
