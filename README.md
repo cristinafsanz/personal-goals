@@ -36,17 +36,18 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Semana 22-28 Enero: Mejorar presentación GitHub Pages + Bilbostack
 - [ ] 🚀 Enlaces a proyectos GitHub en nueva pestaña.
 - [ ] 🚀 Truco de sustitución en vez de truco de parar.
-- [ ] 🚀 Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
-- [ ] 🚀 Añadir ejemplo npm gh-pages.
+- [ ] 🚀 Pasos crear proyecto con todos los pasos incluyendo en cd al proyeco. ¿Hacer vídeo modo Jose Dongil? Se puede tener como archivo aparte.
 - [ ] 🚊 Bilbostack (27 Enero).
 
-### Semana 29 Enero-4 Febrero: Mejorar repo GitHub Pages + Harry Potter
-- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
-- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
+### Semana 29 Enero-4 Febrero: Mejorar presentación GitHub Pages + Harry Potter
+- [ ] 🚀 Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
+- [ ] 🚀 Añadir ejemplo npm gh-pages.
 - [ ] ⚡️ Exposición Harry Potter (3 Febrero)
 
-### Semana 5-11 Febrero: Ensayo tiempos charla
-- 🙊 Ensayar charla para ver cuándo dura
+### Semana 5-11 Febrero: Ensayo tiempos charla + Mejorar repo GitHub Pages
+- 🙊 Ensayar charla para ver cuándo dura.
+- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
+- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
 
 ### Backlog:
 
