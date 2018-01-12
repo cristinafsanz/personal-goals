@@ -130,6 +130,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] Buñuelos ligeros de bacalao y patata
 - [ ] Salmón al horno con bechamel de langostinos.
 - [ ] Tarta de queso
+- [ ] [Apfelstrudel](http://www.lilvienna.com/original-viennese-apple-strudel/)
 
 ### Eventos:
 - [ ] 🚊 Bilbostack (27 Enero)
