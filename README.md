@@ -25,21 +25,38 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 🎨 Descubrir artistas del siglo XIX que me han encantado (neoimpresionismo, art neuveu, los nabis y la cultura de la estampa): [Toulouse-Lautrec, Alphonse Mucha, Theophile Alexandre Steilen (char noir), Louis Anquetin (Mirliton), Maximilien Luce (rue Reaumur), Paul Signac, Camille Pizzaro, Pierre Bonart](https://twitter.com/cristinafsanz/status/947062979484405760).
 - 🚊 Viajes al País Vasco y sur de Francia.
 
+
+## Objetivo Enero-Febrero 2018: Preparar charla GitHub Pages con mejoras.
+
 ## Organización semanal
 
-### Semana 2-7 Enero: Vue + Acuarelas
-- [ ] 📚 Vue: Probar [Poi](https://alligator.io/vuejs/vue-scaffold-poi/) y empezar curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226). 
-- [ ] 🚀 Crear JavaScript playground para probar ES6 (reduce, arrow functions, ...).
-- [ ] 🙊 Repasar charla Adalab.
-- [ ] 🎨 [Pintar con acuarela](http://www.sleepydays.es/2016/05/aprender-a-pintar-con-acuarela.html).
-- [ ] Recopilar info de fotos y notas sobre [museos sobre fin de siglo XIX en París](https://twitter.com/cristinafsanz/status/947062979484405760). Méliès, Lautrec, autores fin de siglo del Guggenheim y Mucha. Pintar en acuarela basado en esto :)
+### Semana 15-21 Enero: Probar npm gh-pages
+- [ ] 🚀 [Publish files to a gh-pages](https://www.npmjs.com/package/gh-pages): Usar el cli (gh-pages) que ellos ya te dan (viene en la sección Command Line Utility al final de la documentación).
 
-### Enero 2018
-- [ ] 📚 Curso [Vue2 y Firebase](https://wmedia.teachable.com/courses/enrolled/140226).
-- [ ] 🚀 Preparar charla GitHub Pages con algunas mejoras.
-- [ ] ⚡️ Maratón películas Harry Potter para ver antes de la exposición.
+### Semana 22-28 Enero: Mejorar presentación GitHub Pages + Bilbostack
+- [ ] 🚀 Enlaces a proyectos GitHub en nueva pestaña.
+- [ ] 🚀 Truco de sustitución en vez de truco de parar.
+- [ ] 🚀 Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
+- [ ] 🚀 Añadir ejemplo npm gh-pages.
+- [ ] 🚊 Bilbostack (27 Enero).
+
+### Semana 29 Enero-4 Febrero: Mejorar repo GitHub Pages + Harry Potter
+- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
+- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
+- [ ] ⚡️ Exposición Harry Potter (3 Febrero)
+
+### Semana 5-11 Febrero: Ensayo tiempos charla
+- 🙊 Ensayar charla para ver cuándo dura
 
 ### Backlog:
+
+#### Mejorar con JavaScript
+- [ ] 📚 [JavaScript30](https://javascript30.com/).
+- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
+- [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
+- [ ] 📚 [PlainJS](https://plainjs.com/).
+- [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
 
 #### Revisar Ejemplos Vue
 - [ ] 👀 [Ver charla Vue Jose Dongil](https://www.youtube.com/watch?v=7ftXSVWOwcg).
@@ -54,22 +71,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
 - [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
 - [ ] 👀 Charla [Animating Vue](https://www.youtube.com/watch?v=Vp37fWKOlV4).
-
-#### Mejorar con JavaScript
-- [ ] 📚 [JavaScript30](https://javascript30.com/).
-- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
-- [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-- [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
-- [ ] 📚 [PlainJS](https://plainjs.com/).
-- [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
-
-#### Mejoras proyecto GitHub Pages
-- [ ] Truco de sustitución en vez de truco de parar.
-- [ ] 🚀 [Publish files to a gh-pages](https://www.npmjs.com/package/gh-pages): Usar el cli (gh-pages) que ellos ya te dan (viene en la sección Command Line Utility al final de la documentación).
-- [ ] ✍️ Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
-- [ ] 👀 Versión mejorada de Jotted, ¿algo más parecido a Codepen para visualizar todas las pestañas a la vez? ¿Integración para visualizar un repo de GitHub en Codepen?
-- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
-- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
 
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
@@ -132,7 +133,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Eventos:
 - [ ] 🚊 Bilbostack (27 Enero)
 - [ ] ⚡️ Exposición Harry Potter (3 Febrero)
-- [ ] ¿Frontfest? (17 Febrero)
+- [ ] 🎉 Frontfest (17 Febrero)
 - [ ] 👯 Billy Elliot (1 Marzo)
 
 ### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
