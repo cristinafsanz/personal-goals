@@ -142,7 +142,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
 - [ ] Bilbao
 - [ ] ¿Marzo visita Pamplona?
-- [ ] ¿Abril Viaje Londres?
+- [ ] ¿Abril WTM Asturias, viaje Londres?
 - [ ] Agosto St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
 - [ ] ¿[Copenhague-Estocolmo](http://www.naturalezayviajes.com/2013/07/guia-para-viajar-copenague-y-estocolmo.html)?
 - [ ] ¿Chicago visita prima?
