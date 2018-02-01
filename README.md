@@ -48,6 +48,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Backlog:
 
 #### Mejorar con JavaScript
+- [ ] 🚀 [30 seconds of code](https://30secondsofcode.org/).
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
 - [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
