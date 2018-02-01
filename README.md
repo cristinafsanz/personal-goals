@@ -30,20 +30,16 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Organización semanal
 
-### Semana 1-4 Febrero: Mejorar presentación GitHub Pages
-- [ ] 🚀 Enlaces a proyectos GitHub en nueva pestaña.
-- [ ] 🚀 Truco de sustitución en vez de truco de parar.
+### Semana 1-4 Febrero: Guión charla en un fichero Markdown GitHub (repo slides)
+- [ ] ✍️ Intro sobre mi uso de GitHub para apuntar notas de lo que voy aprendiendo en repos de GitHub + descubrimiento e-journal.
 - [ ] 🚀 Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
 - [ ] 🚀 Añadir ejemplo npm gh-pages.
 - [ ] 🚀 Pasos crear proyecto con todos los pasos incluyendo en cd al proyecto.
-    ![Ejemplo instrucciones](images/ejemplo-instrucciones.jpg?raw=true)
+    ![Ejemplo instrucciones](images/ejemplo-instrucciones.jpg?raw=true).
 
-### Semana 5-11 Febrero: Ensayo tiempos charla Comunidad Code + Mejorar repo GitHub Pages
-- [ ] 📚 Leer sobre [hablar en público de Víctor Olaya](http://volaya.github.io/web/texts/html/hablar/index.html).
-- Pensar en introducción en GitHub con el sistema Memento y el e-journal de Elena.
-- 🙊 Ensayar charla para ver cuándo dura.
-- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
-- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
+### Semana 5-11 Febrero: Aprender el guin + Ensayo tiempos charla 
+- 🙊 Ensayar charla desde el ordenador.
+
 
 ### Backlog:
 
@@ -90,8 +86,14 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Terminal
 - [ ] 🚀 [Nucliweb](https://desarrolloweb.com/articulos/personalizacion-terminal-bash-it-iterm2.html)
 
-#### Leer libro para mejorar productividad
+### Mejora proyecto GitHub Pages
+- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
+- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanban).
+
+#### Lecturas técnicas
 - [ ] 📚 Leer libro "Getting Things done" de David Allen.
+- [ ] 📚 Leer sobre [hablar en público de Víctor Olaya](http://volaya.github.io/web/texts/html/hablar/index.html).
+- Pensar en introducción en GitHub con el sistema Memento y el e-journal de Elena.
 
 #### Acuarela y dibujo
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
