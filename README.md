@@ -31,13 +31,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ## Organización semanal
 
 ### Semana 1-4 Febrero: Guión charla en un fichero Markdown GitHub (repo slides)
-- [ ] ✍️ Intro sobre mi uso de GitHub para apuntar notas de lo que voy aprendiendo en repos de GitHub + descubrimiento e-journal.
-- [ ] 🚀 Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
-- [ ] 🚀 Añadir ejemplo npm gh-pages.
-- [ ] 🚀 Pasos crear proyecto con todos los pasos incluyendo en cd al proyecto.
-    ![Ejemplo instrucciones](images/ejemplo-instrucciones.jpg?raw=true).
+- [ ] ✍️ Añadir guión de la charla
 
-### Semana 5-11 Febrero: Aprender el guin + Ensayo tiempos charla 
+### Semana 5-11 Febrero: Aprender el guión + Ensayo tiempos charla 
 - 🙊 Ensayar charla desde el ordenador.
 
 
