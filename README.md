@@ -49,6 +49,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
 
 #### Revisar Ejemplos Vue
+- [ ] 👀 [Lo que no se vue, Angélica Lozano](https://www.slideshare.net/alozalv/lo-que-no-se-vue-87197143).
 - [ ] 👀 [Ver charla Vue Jose Dongil](https://www.youtube.com/watch?v=7ftXSVWOwcg).
 - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
 - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
