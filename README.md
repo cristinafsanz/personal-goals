@@ -30,24 +30,13 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Organización semanal
 
-### Semana 1-4 Febrero: Mejorar presentación GitHub Pages
-- [ ] 🚀 Enlaces a proyectos GitHub en nueva pestaña.
-- [ ] 🚀 Truco de sustitución en vez de truco de parar.
-- [ ] 🚀 Añadir explicación de [Markdown](https://dev.to/kazz/boost-your-productivity-using-markdown-1be). Tip: Plugin para preview con vscode.
-- [ ] 🚀 Añadir ejemplo npm gh-pages.
-- [ ] 🚀 Pasos crear proyecto con todos los pasos incluyendo en cd al proyecto.
-    ![Ejemplo instrucciones](images/ejemplo-instrucciones.jpg?raw=true)
-
-### Semana 5-11 Febrero: Ensayo tiempos charla Comunidad Code + Mejorar repo GitHub Pages
-- [ ] 📚 Leer sobre [hablar en público de Víctor Olaya](http://volaya.github.io/web/texts/html/hablar/index.html).
-- Pensar en introducción en GitHub con el sistema Memento y el e-journal de Elena.
-- 🙊 Ensayar charla para ver cuándo dura.
-- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
-- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanba).
+### Semana 19-25 Febrero: Crear primeras notas en el e-journal para curso Vue
+- [ ] 🚀 https://github.com/cristinafsanz/e-journal
 
 ### Backlog:
 
 #### Mejorar con JavaScript
+- [ ] Lección Angélica Lozano: if(!noCumple) return; continuar con resto.
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
 - [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -56,6 +45,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
 
 #### Revisar Ejemplos Vue
+- [ ] 👀 [Recursos Vue Angélica Lozano](https://twitter.com/alozalv/status/957207251126800384?s=03).
 - [ ] 👀 [Ver charla Vue Jose Dongil](https://www.youtube.com/watch?v=7ftXSVWOwcg).
 - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
 - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
