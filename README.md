@@ -79,8 +79,14 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Terminal
 - [ ] 🚀 [Nucliweb](https://desarrolloweb.com/articulos/personalizacion-terminal-bash-it-iterm2.html)
 
-#### Leer libro para mejorar productividad
+### Mejora proyecto GitHub Pages
+- [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
+- [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanban).
+
+#### Lecturas técnicas
 - [ ] 📚 Leer libro "Getting Things done" de David Allen.
+- [ ] 📚 Leer sobre [hablar en público de Víctor Olaya](http://volaya.github.io/web/texts/html/hablar/index.html).
+- Pensar en introducción en GitHub con el sistema Memento y el e-journal de Elena.
 
 #### Acuarela y dibujo
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
