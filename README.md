@@ -43,6 +43,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
 - [ ] 📚 [PlainJS](https://plainjs.com/).
 - [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
+- [ ] [GitBook Adalab JS](https://adalab.gitbooks.io/curso-programacion-front-end-2018/content/sprint_2/2_1_intro_a_la_programacion.html)
 
 #### Revisar Ejemplos Vue
 - [ ] 👀 [Recursos Vue Angélica Lozano](https://twitter.com/alozalv/status/957207251126800384?s=03).
