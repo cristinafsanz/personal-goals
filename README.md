@@ -20,34 +20,21 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Objetivos conseguidos 2017
 
-- 🙊 Mejorar preparando charlas (charlas hechas en T3chfest, WTM Madrid, TechShessions y Codemotion).
+- 🙊 Mejorar preparando charlas (charlas hechas en T3chfest, WTM Madrid, Codemotion y Comunidad CODE).
 - 💡 Finalizar proyecto de [Casos de Uso de GitHub Pages](https://github.com/cristinafsanz/github-pages) y utilizarlo como base para próximos aprendizajes.
 - 🎨 Descubrir artistas del siglo XIX que me han encantado (neoimpresionismo, art neuveu, los nabis y la cultura de la estampa): [Toulouse-Lautrec, Alphonse Mucha, Theophile Alexandre Steilen (char noir), Louis Anquetin (Mirliton), Maximilien Luce (rue Reaumur), Paul Signac, Camille Pizzaro, Pierre Bonart](https://twitter.com/cristinafsanz/status/947062979484405760).
 - 🚊 Viajes al País Vasco y sur de Francia.
 
 
-## Objetivo Enero-Febrero 2018: Preparar charla GitHub Pages con mejoras.
+## Objetivo Marzo 2018: Mejorar con Vue
 
 ## Organización semanal
 
-### Semana 19-25 Febrero: Crear primeras notas en el e-journal para curso Vue
-- [ ] 🚀 https://github.com/cristinafsanz/e-journal
+### Semana 5-11 Marzo: Taller CSS
+- [ ] 🚀Hacer taller [CSS en 2018](https://github.com/FCalabria/css-en-2018)
 
-### Backlog:
-
-#### Mejorar con JavaScript
-- [ ] Lección Angélica Lozano: if(!noCumple) return; continuar con resto.
-- [ ] 📚 [JavaScript30](https://javascript30.com/).
-- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
-- [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-- [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
-- [ ] 📚 [PlainJS](https://plainjs.com/).
-- [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
-- [ ] [GitBook Adalab JS](https://adalab.gitbooks.io/curso-programacion-front-end-2018/content/sprint_2/2_1_intro_a_la_programacion.html)
-
-#### Revisar Ejemplos Vue
-- [ ] 👀 [Recursos Vue Angélica Lozano](https://twitter.com/alozalv/status/957207251126800384?s=03).
-- [ ] 👀 [Ver charla Vue Jose Dongil](https://www.youtube.com/watch?v=7ftXSVWOwcg).
+### Semana 12-18 Marzo: Taller Vue
+- [ ] 🚀Notas del taller y revisar ejemplos repos Vue 
 - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
 - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
 - [ ] 🚀 [Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
@@ -60,10 +47,24 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [Vuex Example](https://github.com/rubnvp/vuex-example)
 - [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
 - [ ] 👀 Charla [Animating Vue](https://www.youtube.com/watch?v=Vp37fWKOlV4).
+- [ ] 👀 [Recursos Vue Angélica Lozano](https://twitter.com/alozalv/status/957207251126800384?s=03).
+- [ ] 👀 [Ver charla Vue Jose Dongil](https://www.youtube.com/watch?v=7ftXSVWOwcg).
+
+### Backlog:
 
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
 - [ ] [Curso CSS Grid Layout](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098).
+
+#### Mejorar con JavaScript
+- [ ] Lección Angélica Lozano: if(!noCumple) return; continuar con resto.
+- [ ] 📚 [JavaScript30](https://javascript30.com/).
+- [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
+- [ ] 📚 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
+- [ ] 📚 [PlainJS](https://plainjs.com/).
+- [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
+- [ ] [GitBook Adalab JS](https://adalab.gitbooks.io/curso-programacion-front-end-2018/content/sprint_2/2_1_intro_a_la_programacion.html)
 
 #### Mejorar con arquitectura CSS
 - [ ] [Consejos arquitectura CSS](https://github.com/jareware/css-architecture).
@@ -137,7 +138,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] Bilbao
 - [ ] ¿Marzo visita Pamplona?
 - [ ] ¿Abril WTM Asturias, viaje Londres?
-- [ ] Agosto St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
+- [ ] Julio St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
 - [ ] ¿[Copenhague-Estocolmo](http://www.naturalezayviajes.com/2013/07/guia-para-viajar-copenague-y-estocolmo.html)?
 - [ ] ¿Chicago visita prima?
 
