@@ -30,25 +30,20 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Organización semanal
 
-### Semana 5-11 Marzo: Taller CSS
-- [ ] 🚀Hacer taller [CSS en 2018](https://github.com/FCalabria/css-en-2018)
-
 ### Semana 12-18 Marzo: Taller Vue
 - [ ] 🚀Notas del taller y revisar ejemplos repos Vue 
-- [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue)
-- [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist)
+- [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue).
+- [ ] 🚀 [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 - [ ] 🚀 [Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
 - [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
 - [ ] 🚀 [Vue Trello Carlos Azaustre](https://github.com/carlosazaustre/vue-trello).
 - [ ] 🚀 [VueJS by example](https://github.com/Lemoncode/vuejs-by-sample).
 - [ ] 🚀 Charla Sirikon: [slides](http://slides.com/sirikon/a-new-point-of-vue#/), [ejemplos](https://gitlab.com/Sirikon/a-new-point-of-vue-examples/) y más [ejemplos](https://github.com/sirikon/vue-examples).
-- [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling)
-- [ ] 🚀 [Taller Vue Rafael Casuso](https://www.youtube.com/watch?v=SkR_3BGmqRc), [código](https://github.com/VueJSMadrid/vue-workshop) y [slides](https://www.slideshare.net/RafaelCasusoRomate/intro-to-vuejs-workshop).
-- [ ] 🚀 [Vuex Example](https://github.com/rubnvp/vuex-example)
-- [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly)
-- [ ] 👀 Charla [Animating Vue](https://www.youtube.com/watch?v=Vp37fWKOlV4).
-- [ ] 👀 [Recursos Vue Angélica Lozano](https://twitter.com/alozalv/status/957207251126800384?s=03).
-- [ ] 👀 [Ver charla Vue Jose Dongil](https://www.youtube.com/watch?v=7ftXSVWOwcg).
+- [ ] 🚀 [Taller de Vue Rafa García](https://github.com/rafagarcia/vueling).
+- [ ] 🚀 [Vuex Example](https://github.com/rubnvp/vuex-example).
+- [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly).
+- [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist).
+
 
 ### Backlog:
 
