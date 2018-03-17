@@ -26,15 +26,44 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 🚊 Viajes al País Vasco y sur de Francia.
 
 
-## Objetivo Marzo 2018: Mejorar con Vue
+## Objetivo Marzo-Junio 2018: Mejorar con Vue + ES6
 
 ## Organización semanal
 
-### Semana 12-18 Marzo: Taller Vue
-- [ ] 🚀Notas del taller y revisar ejemplos repos Vue 
+### Semana 12-18 Marzo: Libro The Majesty of Vue.js 2
+- [ ] 🚀Apuntar notas libro en el repo.
+- [ ] 🚀Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
+
+### Semana 19-25 Marzo: Taller Vue + revisar curso Escuela IT
+- [ ] 🚀Revisar presentaciones + Notas del taller. 
+- [ ] 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
+- [ ] 👀Comprar Tren Barcelona Mayo + Agosto
+
+### Semana 26 Marzo - 1 Abril: Semana Santa
+- [ ] ES6: map, filter, reduce casos de uso. Destructuring.
+- [ ] 👀Mirar viaje Sigüenza
+
+### Semana 2-8 Abril 
+- [ ] 🚊Sigüenza
+- [ ] 👀Mirar viaje Asturias
+
+### Semana 9-15 Abril 
+- [ ] 🚊Asturias (WTM Asturias)
+
+### Semana 16-22 Abril
+- WTM Madrid
+
+### Proyectos: 
+
+#### Pensar proyecto Vue + ES6
+- [ ] 🚀¿Acceder API Booking para buscar con filtros?
+- [ ] Pupeteer Booking (min 40) https://youtu.be/-Gtv6BMvcgM
+
+### Backlog:
+
+### Repos Vue
 - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue).
 - [ ] 🚀 [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
-- [ ] 🚀 [Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
 - [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
 - [ ] 🚀 [Vue Trello Carlos Azaustre](https://github.com/carlosazaustre/vue-trello).
 - [ ] 🚀 [VueJS by example](https://github.com/Lemoncode/vuejs-by-sample).
@@ -43,13 +72,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [Vuex Example](https://github.com/rubnvp/vuex-example).
 - [ ] 🚀 [Juego Simon Jordi Marti Vue + Firebase](https://github.com/jmarti-theinit/simonly).
 - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist).
-
-
-### Backlog:
-
-#### Flexbox + CSS Grid Layout
-- [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
-- [ ] [Curso CSS Grid Layout](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098).
 
 #### Mejorar con JavaScript
 - [ ] Lección Angélica Lozano: if(!noCumple) return; continuar con resto.
@@ -61,7 +83,12 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
 - [ ] [GitBook Adalab JS](https://adalab.gitbooks.io/curso-programacion-front-end-2018/content/sprint_2/2_1_intro_a_la_programacion.html)
 
+#### Flexbox + CSS Grid Layout
+- [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
+- [ ] [Curso CSS Grid Layout](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098).
+
 #### Mejorar con arquitectura CSS
+- [ ] Casos de usos Sass (npm install npm-sass)
 - [ ] [Consejos arquitectura CSS](https://github.com/jareware/css-architecture).
 - [ ] 📚 ITCSS de EscuelaIT.
 - [ ] 📚 Charla Arquitectura CSS de Carmen e Ignacio: [Vídeo](https://www.youtube.com/watch?v=qnSbqv6rqx4) y [slides](http://wecodesignpodcast.com/speaking/#/).
@@ -76,7 +103,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Terminal
 - [ ] 🚀 [Nucliweb](https://desarrolloweb.com/articulos/personalizacion-terminal-bash-it-iterm2.html)
 
-### Mejora proyecto GitHub Pages
+#### Mejora proyecto GitHub Pages
 - [ ] 👀 [GitHub cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet).
 - [ ] ✍️ Añadir info relevante en repo GitHub Pages recopilada en [Taiga Kanban](https://tree.taiga.io/project/cristinafsanz-ilusionismo-con-github-pages/kanban).
 
@@ -124,15 +151,15 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] [Apfelstrudel](http://www.lilvienna.com/original-viennese-apple-strudel/)
 
 ### Eventos:
-- [ ] 🚊 Bilbostack (27 Enero)
-- [ ] ⚡️ Exposición Harry Potter (3 Febrero)
-- [ ] 🎉 Frontfest (17 Febrero)
-- [ ] 👯 Billy Elliot (1 Marzo)
+- [ ] 🚊 WTM Asturias (14 Abril)
+- [ ] 🎉 WTM Madrid (21 Abril)
+- [ ] 🚊 Vue Barcelona (25 Mayo)
+- [ ] 🚊 ¿Vue Alicante (2 Junio)?
 
 ### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
 - [ ] Bilbao
-- [ ] ¿Marzo visita Pamplona?
-- [ ] ¿Abril WTM Asturias, viaje Londres?
+- [ ] Abril Sigüenza + Asturias + ¿Pamplona?
+- [ ] Mayo Barcelona
 - [ ] Julio St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
 - [ ] ¿[Copenhague-Estocolmo](http://www.naturalezayviajes.com/2013/07/guia-para-viajar-copenague-y-estocolmo.html)?
 - [ ] ¿Chicago visita prima?
