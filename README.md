@@ -40,18 +40,34 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 👀Comprar Tren Barcelona Mayo + Agosto
 
 ### Semana 26 Marzo - 1 Abril: Semana Santa
-- [ ] ES6: map, filter, reduce casos de uso. Destructuring.
-- [ ] 👀Mirar viaje Sigüenza
+- [ ] 👀Comprar viaje Sigüenza (+ mirar qué hacer)
+- [ ] 👀Mirar viaje Asturias
 
 ### Semana 2-8 Abril 
-- [ ] 🚊Sigüenza
-- [ ] 👀Mirar viaje Asturias
+- [ ] 🚊Sigüenza, ¿Pamplona?
 
 ### Semana 9-15 Abril 
 - [ ] 🚊Asturias (WTM Asturias)
 
 ### Semana 16-22 Abril
 - WTM Madrid
+- [ ] Hacer ejemplo vuex sencillo
+
+### Semana 23-29 Abril
+- [ ] ES6: map, filter, reduce casos de uso. Destructuring.
+
+### Semana 30 Abril - 6 Mayo: Los mayos + puente
+
+### Semana 7-13 Mayo: Puente Mayo
+- [ ] 🚊Asturias
+
+### Semana 14-20 Mayo
+
+### Semana 21-27 Mayo: Vue Barcelona
+- [ ] 🚊Barcelona
+
+### Semana 28 Mayo - 3 Junio: Vue Alicante
+- [ ] 🚊Alicante?
 
 ### Proyectos: 
 
