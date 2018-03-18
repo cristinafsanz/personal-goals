@@ -12,11 +12,11 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ## Objetivos para 2018: [Cuidarme y ser feliz](https://twitter.com/dreamingechoes/status/937326848438042626)
 
 - 📚 Mejorar en Front-end: JavaScript (ES6 y Vue) y CSS (Flexbox y Grid Layout).
-- 🙊 Año de descanso de charlas (sólo repetir charla GitHub Pages para que se grabe).
-- 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
-- 💃 Seguir con pilates y hacer algo más de deporte.
-- 🍴 Cocinar recetas nuevas.
+- 💃 Seguir con pilates y apuntarme a alguna clase de baile.
 - 😍 Planificar planes y viajes durante el año. Descansar.
+- 🙉 Refrescar [alemán](http://www.dw.com/en/langsam-gesprochene-nachrichten-learning-german/a-2925601) y [francés](https://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) para el verano.
+- 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
+- 🍴 Cocinar recetas nuevas.
 
 ## Objetivos conseguidos 2017
 
@@ -32,16 +32,16 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Semana 12-18 Marzo: Libro The Majesty of Vue.js 2
 - [ ] 🚀Apuntar notas libro en el repo.
-- [ ] 🚀Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 
 ### Semana 19-25 Marzo: Taller Vue + revisar curso Escuela IT
-- [ ] 🚀Revisar presentaciones + Notas del taller. 
+- [ ] 🚀Revisar presentaciones + Notas del taller.
 - [ ] 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
 - [ ] 👀Comprar Tren Barcelona Mayo + Agosto
 
 ### Semana 26 Marzo - 1 Abril: Semana Santa
 - [ ] 👀Comprar viaje Sigüenza (+ mirar qué hacer)
 - [ ] 👀Mirar viaje Asturias
+- [ ] 🚀Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 
 ### Semana 2-8 Abril 
 - [ ] 🚊Sigüenza, ¿Pamplona?
