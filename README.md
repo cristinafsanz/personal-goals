@@ -34,14 +34,13 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀Apuntar notas libro en el repo.
 
 ### Semana 19-25 Marzo: Taller Vue + revisar curso Escuela IT
-- [ ] 🚀Revisar presentaciones + Notas del taller.
+- [ ] 🚀Revisar código [Minimal Vue es5 y es6](https://github.com/rubnvp/vue-pokedex) y [presentación](https://docs.google.com/presentation/d/1zmg1lhmSAiXnVxhJivDKw30MDruFNZIhvIi26Emm-rc/edit#slide=id.g355cbe6df5_1_21).
 - [ ] 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
 - [ ] 👀Comprar Tren Barcelona Mayo + Agosto
 
 ### Semana 26 Marzo - 1 Abril: Semana Santa
 - [ ] 👀Comprar viaje Sigüenza (+ mirar qué hacer)
 - [ ] 👀Mirar viaje Asturias
-- [ ] 🚀Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 
 ### Semana 2-8 Abril 
 - [ ] 🚊Sigüenza, ¿Pamplona?
@@ -51,7 +50,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Semana 16-22 Abril
 - WTM Madrid
-- [ ] Hacer ejemplo vuex sencillo
+- [ ] Hacer ejemplo vuex sencillo (mirar charla Rubén)
+- [ ] 🚀Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 
 ### Semana 23-29 Abril
 - [ ] ES6: map, filter, reduce casos de uso. Destructuring.
