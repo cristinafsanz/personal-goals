@@ -56,9 +56,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - WTM Madrid
 - [ ] Hacer ejemplo vuex sencillo (mirar charla Rubén)
 
-
 ### Semana 23-29 Abril
 - [ ] ES6: map, filter, reduce casos de uso. Destructuring.
+- [ ] Hacer alguna kata JS para ir mejorando  (ej. codewars)
 
 ### Semana 30 Abril - 6 Mayo: Los mayos + puente
 
