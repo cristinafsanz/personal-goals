@@ -30,17 +30,21 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Organización semanal
 
-### Semana 12-18 Marzo: Libro The Majesty of Vue.js 2
-- [ ] 🚀Apuntar notas libro en el repo.
-
 ### Semana 19-25 Marzo: Taller Vue + revisar curso Escuela IT
-- [ ] 🚀Revisar código [Minimal Vue es5 y es6](https://github.com/rubnvp/vue-pokedex) y [presentación](https://docs.google.com/presentation/d/1zmg1lhmSAiXnVxhJivDKw30MDruFNZIhvIi26Emm-rc/edit#slide=id.g355cbe6df5_1_21).
-- [ ] 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017).
-- [ ] 👀Comprar Tren Barcelona Mayo + Agosto
-
+- 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017):
+  - [x] [1. Entorno de desarrollo y nuestra primera aplicación con Vue.js](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/entorno-de-desarrollo-y-nuestra-primera-aplicacion-con-vuejs).
+  - [ ] [2. Componentes avanzados: ciclo de vida, propiedades, eventos, binding…](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/componentes-avanzados-ciclo-de-vida-propiedades-eventos-binding).
+  - [ ] [3. Estilos en componentes Vue.JS](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/estilos-en-componentes-vuejs).
+  - [ ] [4. Anidando componentes. Comunicación entre componentes.](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/anidando-componentes-comunicacion-entre-componentes).
+  
 ### Semana 26 Marzo - 1 Abril: Semana Santa
 - [ ] 👀Comprar viaje Sigüenza (+ mirar qué hacer)
 - [ ] 👀Mirar viaje Asturias
+- 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017):
+  - [ ] [5. Single page Apps: routing con vue-router](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/single-page-apps-routing-con-vue-router).
+  - [ ] [6. Conectando con servicios externos](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/conectando-con-servicios-externos).
+  - [ ] [7. Debuggeando y testeando nuestros componentes](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/debuggeando-y-testeando-nuestros-componentes).
+  - [ ] [8. Introducción al patrón Flux y su implementación y uso con vuex](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/introduccion-al-patron-flux-y-su-implementacion-y-uso-con-vuex).
 
 ### Semana 2-8 Abril 
 - [ ] 🚊Sigüenza, ¿Pamplona?
@@ -51,7 +55,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Semana 16-22 Abril
 - WTM Madrid
 - [ ] Hacer ejemplo vuex sencillo (mirar charla Rubén)
-- [ ] 🚀Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
+
 
 ### Semana 23-29 Abril
 - [ ] ES6: map, filter, reduce casos de uso. Destructuring.
@@ -59,7 +63,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Semana 30 Abril - 6 Mayo: Los mayos + puente
 
 ### Semana 7-13 Mayo: Puente Mayo
-- [ ] 🚊Asturias
+- [ ] 🚊Barcelona
 
 ### Semana 14-20 Mayo
 
@@ -78,6 +82,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Backlog:
 
 ### Repos Vue
+- [ ] 🚀Revisar código [Minimal Vue es5 y es6](https://github.com/rubnvp/vue-pokedex) y [presentación](https://docs.google.com/presentation/d/1zmg1lhmSAiXnVxhJivDKw30MDruFNZIhvIi26Emm-rc/edit#slide=id.g355cbe6df5_1_21).
+- [ ] 🚀Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue).
 - [ ] 🚀 [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 - [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
