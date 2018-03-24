@@ -33,7 +33,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ### Semana 19-25 Marzo: Taller Vue + revisar curso Escuela IT
 - 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017):
   - [x] [1. Entorno de desarrollo y nuestra primera aplicación con Vue.js](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/entorno-de-desarrollo-y-nuestra-primera-aplicacion-con-vuejs).
-  - [ ] [2. Componentes avanzados: ciclo de vida, propiedades, eventos, binding…](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/componentes-avanzados-ciclo-de-vida-propiedades-eventos-binding).
+  - [x] [2. Componentes avanzados: ciclo de vida, propiedades, eventos, binding…](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/componentes-avanzados-ciclo-de-vida-propiedades-eventos-binding).
   - [ ] [3. Estilos en componentes Vue.JS](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/estilos-en-componentes-vuejs).
   - [ ] [4. Anidando componentes. Comunicación entre componentes.](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/anidando-componentes-comunicacion-entre-componentes).
   
@@ -142,19 +142,19 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ## Listas personales
 
 ### Series
-- [ ] 👀 Dark.
+- [x] 👀 Dark.
 - [ ] 👀 This is us.
 - [ ] 👀 You're the Worst.
 - [ ] 👀 Halt and Catch Fire.
 
 ### Películas
-- [ ] 👀 La librería (Isabel Coixet).
 - [ ] 👀 La ciencia del sueño (mismo director de Olvídate de mí).
 - [ ] 👀 Madre.
 - [ ] 👀 Relatos salvajes.
 
 ### Libros
-- [ ] 📚 Continuar la [tetralogía del cementerio de los libros olvidados](https://www.casadellibro.com/ebook-tetralogia-el-cementerio-de-los-libros-olvidados-pack-ebook/9788408167716/4784473).
+- [x] 📚 Continuar la [tetralogía del cementerio de los libros olvidados](https://www.casadellibro.com/ebook-tetralogia-el-cementerio-de-los-libros-olvidados-pack-ebook/9788408167716/4784473).
+- [ ] 📚 La analfabeta que era un genio de los números (en español para luego entender la alemana)
 - [ ] 📚 La vida imaginaria, Mara Torres.
 - [ ] 📚 Trilogía de Baztán.
 - [ ] 📚 'Feminismo para principiantes' de Nuria Varela.
@@ -179,7 +179,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚊 ¿Vue Alicante (2 Junio)?
 
 ### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
-- [ ] Bilbao
+- [x] Bilbao
 - [ ] Abril Sigüenza + Asturias + ¿Pamplona?
 - [ ] Mayo Barcelona
 - [ ] Julio St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
