@@ -29,17 +29,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 ## Objetivo Marzo-Junio 2018: Mejorar con Vue + ES6
 
 ## Organización semanal
-
-### Semana 19-25 Marzo: Taller Vue + revisar curso Escuela IT
-- 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017):
-  - [x] [1. Entorno de desarrollo y nuestra primera aplicación con Vue.js](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/entorno-de-desarrollo-y-nuestra-primera-aplicacion-con-vuejs).
-  - [x] [2. Componentes avanzados: ciclo de vida, propiedades, eventos, binding…](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/componentes-avanzados-ciclo-de-vida-propiedades-eventos-binding).
-  - [x] [3. Estilos en componentes Vue.JS](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/estilos-en-componentes-vuejs).
-  - [x] [4. Anidando componentes. Comunicación entre componentes.](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/anidando-componentes-comunicacion-entre-componentes).
   
 ### Semana 26 Marzo - 1 Abril: Semana Santa
-- [ ] 👀Comprar viaje Sigüenza (+ mirar qué hacer)
-- [ ] 👀Mirar viaje Asturias
+- [ ] 👀Mirar viajes Sigüenza y Asturias
 - 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017):
   - [ ] [5. Single page Apps: routing con vue-router](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/single-page-apps-routing-con-vue-router).
   - [ ] [6. Conectando con servicios externos](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/conectando-con-servicios-externos).
@@ -48,6 +40,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ### Semana 2-8 Abril 
 - [ ] 🚊Sigüenza
+- [ ] Comprar viaje Barcelona Vue.js
 
 ### Semana 9-15 Abril 
 - [ ] 🚊Asturias (WTM Asturias)
