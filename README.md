@@ -13,8 +13,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 - 📚 Mejorar en Front-end: JavaScript (ES6 y Vue) y CSS (Flexbox y Grid Layout).
 - 💃 Seguir con pilates y apuntarme a alguna clase de baile.
-- 😍 Planificar planes y viajes durante el año. Descansar.
-- 🙉 Refrescar [alemán](http://www.dw.com/en/langsam-gesprochene-nachrichten-learning-german/a-2925601) y [francés](https://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) para el verano.
+- 😍 Planificar planes y viajes durante el año.
+- 🙉 Refrescar [alemán](http://www.deutscheszentrum.es/es/b2-mi%C3%A9rcoles-de-1900-2130-h) y [francés](https://es.duolingo.com/course/fr/es/aprende-franc%C3%A9s-en-l%C3%ADnea) para el verano.
 - 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 - 🍴 Cocinar recetas nuevas.
 
@@ -30,40 +30,35 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Organización semanal
   
-### Semana 26 Marzo - 1 Abril: Semana Santa
-- [ ] 👀Mirar viajes Sigüenza y Asturias
+### Semana 2-8 Abril 
 - 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017):
   - [ ] [5. Single page Apps: routing con vue-router](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/single-page-apps-routing-con-vue-router).
   - [ ] [6. Conectando con servicios externos](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/conectando-con-servicios-externos).
   - [ ] [7. Debuggeando y testeando nuestros componentes](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/debuggeando-y-testeando-nuestros-componentes).
   - [ ] [8. Introducción al patrón Flux y su implementación y uso con vuex](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/introduccion-al-patron-flux-y-su-implementacion-y-uso-con-vuex).
 
-### Semana 2-8 Abril 
-- [ ] 🚊Sigüenza
-- [ ] Comprar viaje Barcelona Vue.js
-
 ### Semana 9-15 Abril 
+- [ ] Empezar alemán
 - [ ] 🚊Asturias (WTM Asturias)
 
 ### Semana 16-22 Abril
 - WTM Madrid
-- [ ] Hacer ejemplo vuex sencillo (mirar charla Rubén)
 
 ### Semana 23-29 Abril
 - [ ] ES6: map, filter, reduce casos de uso. Destructuring.
 - [ ] Hacer alguna kata JS para ir mejorando  (ej. codewars)
+- [ ] Hacer ejemplo vuex sencillo (mirar charla Rubén)
 
-### Semana 30 Abril - 6 Mayo: Los mayos + puente
+### Semana 30 Abril - 6 Mayo: Vacaciones puente 1 Mayo
 
-### Semana 7-13 Mayo: Puente Mayo
-- [ ] 🚊Barcelona
+### Semana 7-13 Mayo: Vacaciones puente 15 Mayo
 
 ### Semana 14-20 Mayo
 
 ### Semana 21-27 Mayo: Vue Barcelona
 - [ ] 🚊Barcelona
 
-### Semana 28 Mayo - 3 Junio: Vue Alicante
+### Semana 28 Mayo - 3 Junio: Dataton + Vue Alicante?
 - [ ] 🚊Alicante?
 
 ### Proyectos: 
