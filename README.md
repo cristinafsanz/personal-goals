@@ -11,10 +11,10 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Objetivos para 2018: [Cuidarme y ser feliz](https://twitter.com/dreamingechoes/status/937326848438042626)
 
-- 📚 Mejorar en Front-end: JavaScript (ES6 y Vue) y CSS (Flexbox y Grid Layout).
-- 💃 Seguir con pilates y apuntarme a alguna clase de baile.
+- 📚 Mejorar en Front-end: JavaScript (ES6 y Vue) y CSS (Flexbox, Grid Layout y BEM).
+- 💃 Seguir con pilates y hacer alguna clase de baile.
 - 😍 Planificar planes y viajes durante el año.
-- 🙉 Refrescar [alemán](http://www.deutscheszentrum.es/es/b2-mi%C3%A9rcoles-de-1900-2130-h) y [francés](https://es.duolingo.com/course/fr/es/aprende-franc%C3%A9s-en-l%C3%ADnea) para el verano.
+- 🙉 Refrescar [alemán](http://www.deutscheszentrum.es/es/b2-mi%C3%A9rcoles-de-1900-2130-h) y [francés](https://es.duolingo.com/course/fr/es/aprende-franc%C3%A9s-en-l%C3%ADnea) para el verano. C1 ingles (buscar sitio) y [alemán](http://www.deutscheszentrum.es/es/c1-jueves-tardes) curso 2018-2019.
 - 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 - 🍴 Cocinar recetas nuevas.
 
@@ -96,6 +96,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
 - [ ] [Curso CSS Grid Layout](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098).
+- [ ] [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be)
 
 #### Mejorar con arquitectura CSS
 - [ ] Casos de usos Sass (npm install npm-sass)
