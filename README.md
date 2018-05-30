@@ -26,40 +26,12 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 🚊 Viajes al País Vasco y sur de Francia.
 
 
-## Objetivo Marzo-Junio 2018: Mejorar con Vue + ES6
+## Objetivo Junio 2018: Mejorar con Vue + ES6
 
 ## Organización semanal
   
-### Semana 2-8 Abril 
-- 🚀[Curso Vue Escuela IT](https://github.com/EscuelaIt/curso-vue-2017):
-  - [ ] [5. Single page Apps: routing con vue-router](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/single-page-apps-routing-con-vue-router).
-  - [ ] [6. Conectando con servicios externos](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/conectando-con-servicios-externos).
-  - [ ] [7. Debuggeando y testeando nuestros componentes](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/debuggeando-y-testeando-nuestros-componentes).
-  - [ ] [8. Introducción al patrón Flux y su implementación y uso con vuex](https://escuela.it/cursos/curso-desarrollo-profesional-vuejs/clase/introduccion-al-patron-flux-y-su-implementacion-y-uso-con-vuex).
-
-### Semana 9-15 Abril 
-- [ ] Empezar alemán
-- [ ] 🚊Asturias (WTM Asturias)
-
-### Semana 16-22 Abril
-- WTM Madrid
-
-### Semana 23-29 Abril
-- [ ] ES6: map, filter, reduce casos de uso. Destructuring.
-- [ ] Hacer alguna kata JS para ir mejorando  (ej. codewars)
-- [ ] Hacer ejemplo vuex sencillo (mirar charla Rubén)
-
-### Semana 30 Abril - 6 Mayo: Vacaciones puente 1 Mayo
-
-### Semana 7-13 Mayo: Vacaciones puente 15 Mayo
-
-### Semana 14-20 Mayo
-
-### Semana 21-27 Mayo: Vue Barcelona
-- [ ] 🚊Barcelona
-
-### Semana 28 Mayo - 3 Junio: Dataton + Vue Alicante?
-- [ ] 🚊Alicante?
+### Semana 28 Mayo -3 Junio 
+- 🚀[The Vue.js Master Class](https://vueschool.io/courses/the-vuejs-master-class):
 
 ### Proyectos: 
 
@@ -161,19 +133,12 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] Tarta de queso
 - [ ] [Apfelstrudel](http://www.lilvienna.com/original-viennese-apple-strudel/)
 
-### Eventos:
-- [ ] 🚊 WTM Asturias (14 Abril)
-- [ ] 🎉 WTM Madrid (21 Abril)
-- [ ] 🚊 Vue Barcelona (25 Mayo)
-- [ ] 🚊 ¿Vue Alicante (2 Junio)?
-
 ### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
 - [x] Bilbao
-- [ ] Abril Sigüenza + Asturias + ¿Pamplona?
-- [ ] Mayo Barcelona
-- [ ] Julio St.Cyprien + sitios visitar (mirar conexiones con Perpignan).
-- [ ] ¿[Copenhague-Estocolmo](http://www.naturalezayviajes.com/2013/07/guia-para-viajar-copenague-y-estocolmo.html)?
-- [ ] ¿Chicago visita prima?
+- [x] Abril Sigüenza + Asturias + ¿Pamplona?
+- [x] Mayo Barcelona
+- [ ] Francia
+- [ ] Berlín
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
