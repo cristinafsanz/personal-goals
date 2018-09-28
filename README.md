@@ -14,7 +14,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 📚 Mejorar en Front-end: JavaScript (ES6 y Vue) y CSS (Flexbox, Grid Layout y BEM).
 - 💃 Seguir con pilates y hacer alguna clase de baile.
 - 😍 Planificar planes y viajes durante el año.
-- 🙉 Refrescar [alemán](http://www.deutscheszentrum.es/es/b2-mi%C3%A9rcoles-de-1900-2130-h) y [francés](https://es.duolingo.com/course/fr/es/aprende-franc%C3%A9s-en-l%C3%ADnea) para el verano. C1 ingles (buscar sitio) y [alemán](http://www.deutscheszentrum.es/es/c1-jueves-tardes) curso 2018-2019.
+- 🙉 Refrescar [alemán](http://www.deutscheszentrum.es).
 - 🎨 Alternar con algún hobbie creativo como [dibujar o pintar acuarelas](https://twitter.com/cristinafsanz/status/903201156222115840).
 - 🍴 Cocinar recetas nuevas.
 
@@ -26,24 +26,38 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 🚊 Viajes al País Vasco y sur de Francia.
 
 
-## Objetivo Junio 2018: Mejorar con Vue + ES6
+## Objetivo Octubre 2018: Publicar blog + Repo snippets ES6
+
 
 ## Organización semanal
   
-### Semana 28 Mayo -3 Junio 
-- 🚀[The Vue.js Master Class](https://vueschool.io/courses/the-vuejs-master-class):
+### Semana 24 Septiembre -30 Septiembre: Backup página actual + crear blog
 
-### Proyectos: 
+- [x] 📚 Copiar todos los textos e imágenes (logo, certificado) de la página actual y hacer pantallazos de cada página.
+- [ ] 🚀 Arrancar proyecto [Netlify CMS](https://www.netlifycms.org/docs/start-with-a-template/) con Gatsby (React) y [template Kaldi](https://gatsby-netlify-cms.netlify.com).
+- [ ] 🚀 Añadir textos iniciales al blog la página de servicios, "Sobre mí" y algunas entradas del blog.
 
-#### Pensar proyecto Vue + ES6
-- [ ] 🚀¿Acceder API Booking para buscar con filtros?
-- [ ] Pupeteer Booking (min 40) https://youtu.be/-Gtv6BMvcgM
+### Semana 1 - 7 Octubre: Imágenes blog + optimización + textos + dominio.
 
-### Backlog:
+- [ ] 👀 Recuperar imágenes del [repo del curso de diseño](http://cristinafsanz.github.io/centro-ayuda-adolescentes/) para ponerlas en el blog.
+- [ ] 🚀 Fork del [curso de Node](https://github.com/Fictizia/Curso-Node.js-para-desarrolladores-Front-end_ed7) cuando esté completo y añadir mis notas y ejercicios.
+- [ ] 🚀 Usar Gulp para optimizar imágenes y que sean progresivas.
+- [ ] 🚀 Mirar cómo añadir dominio propio en Netlify (permite poner certificado SSL gratuito con let's encrypt) y quitarlo de Hostinger.
+- [ ] 👀 Enseñar para ver qué se podría añadir, aparte de Blog y "Sobre mí".
+- [ ] 🚀 Añadir textos finales del blog.
 
-### Repos Vue
-- [ ] 🚀Revisar código [Minimal Vue es5 y es6](https://github.com/rubnvp/vue-pokedex) y [presentación](https://docs.google.com/presentation/d/1zmg1lhmSAiXnVxhJivDKw30MDruFNZIhvIi26Emm-rc/edit#slide=id.g355cbe6df5_1_21).
-- [ ] 🚀Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
+### Semana 8 - 14 Octubre: Actualizar setup y snippets.
+
+- [ ] 🚀 [Repo code-snippets](https://github.com/cristinafsanz/code-snippets) ES6 con gifs de cómo se crean functions, arrows, promesas, etc.
+
+- [ ] 🚀 [Repo setup](https://github.com/cristinafsanz/setup) con últimos aprendizajes: Despliegues a distintos remotos, default y named exports, ayudas Chrome DevTools, extensión Chrome CORS, editar y firmar PDFs.
+
+## Backlog:
+
+### Vue
+- [ ] 🚀 [The Vue.js Master Class](https://vueschool.io/courses/the-vuejs-master-class).
+- [ ] 🚀 Revisar código [Minimal Vue es5 y es6](https://github.com/rubnvp/vue-pokedex) y [presentación](https://docs.google.com/presentation/d/1zmg1lhmSAiXnVxhJivDKw30MDruFNZIhvIi26Emm-rc/edit#slide=id.g355cbe6df5_1_21).
+- [ ] 🚀 Mirar repo [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 - [ ] 🚀 [Workshop Sarah Drasner](https://github.com/sdras/intro-to-vue).
 - [ ] 🚀 [Belén Albeza](https://github.com/belen-albeza/packing-checklist/).
 - [ ] 🚀 [Vue Intro Josheriff](https://github.com/Josheriff/vueIntro).
@@ -56,6 +70,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist).
 
 #### Mejorar con JavaScript
+- [] [Mastering modular JavaScript](https://ponyfoo.com/books/mastering-modular-javascript).
 - [ ] Lección Angélica Lozano: if(!noCumple) return; continuar con resto.
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
@@ -99,46 +114,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] 🎨 Probar a hacer una acuarela como la de @oneeyedman :) https://twitter.com/cristinafsanz/status/906450918547378176
 - [ ] 🎨 [Guía de inicio para dibujar](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e).
 - [ ] 🎨 [Curso Dibujo para principiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1/puno).
-
-## Listas personales
-
-### Series
-- [x] 👀 Dark.
-- [ ] 👀 This is us.
-- [ ] 👀 You're the Worst.
-- [ ] 👀 Halt and Catch Fire.
-
-### Películas
-- [ ] 👀 La ciencia del sueño (mismo director de Olvídate de mí).
-- [ ] 👀 Madre.
-- [ ] 👀 Relatos salvajes.
-
-### Libros
-- [x] 📚 Continuar la [tetralogía del cementerio de los libros olvidados](https://www.casadellibro.com/ebook-tetralogia-el-cementerio-de-los-libros-olvidados-pack-ebook/9788408167716/4784473).
-- [ ] 📚 La analfabeta que era un genio de los números (en español para luego entender la alemana)
-- [ ] 📚 La vida imaginaria, Mara Torres.
-- [ ] 📚 Trilogía de Baztán.
-- [ ] 📚 'Feminismo para principiantes' de Nuria Varela.
-- [ ] 📚 El Segador - Terry Pratchet.
-
-### Recetas
-- [ ] Hummus
-- [ ] Croquetas ligeras de zanahoria
-- [ ] Crema suave de patata con salmón ahumado
-- [ ] Salmorejo
-- [ ] Musaka griega
-- [ ] Filetes de lomo en salsa de setas
-- [ ] Buñuelos ligeros de bacalao y patata
-- [ ] Salmón al horno con bechamel de langostinos.
-- [ ] Tarta de queso
-- [ ] [Apfelstrudel](http://www.lilvienna.com/original-viennese-apple-strudel/)
-
-### Viajes: [Inspiración 13 países](https://www.taniarascia.com/europe/)
-- [x] Bilbao
-- [x] Abril Sigüenza + Asturias + ¿Pamplona?
-- [x] Mayo Barcelona
-- [ ] Francia
-- [ ] Berlín
 
 
 Notas: Lista Emojis GitHub: https://gist.github.com/rxaviers/7360908
