@@ -83,7 +83,8 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 #### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
 - [ ] [Curso CSS Grid Layout](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098).
-- [ ] [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be)
+- [ ] [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be).
+- [ ] [Make the Perfect Responsive Grid with CSS](https://coder-coder.com/make-responsive-grid-css/).
 
 #### Mejorar con arquitectura CSS
 - [ ] Casos de usos Sass (npm install npm-sass)
