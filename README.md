@@ -30,27 +30,15 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 
 ## Organización semanal
-  
-### Semana 24 Septiembre -30 Septiembre: Backup página actual + crear blog
+### Semana 29 Octubre - 4 Noviembre: Dominio y HTTPs Blog.
 
-- [x] 📚 Copiar todos los textos e imágenes (logo, certificado) de la página actual y hacer pantallazos de cada página.
-- [ ] 🚀 Arrancar proyecto [Netlify CMS](https://www.netlifycms.org/docs/start-with-a-template/) con Gatsby (React) y [template Kaldi](https://gatsby-netlify-cms.netlify.com).
-- [ ] 🚀 Añadir textos iniciales al blog la página de servicios, "Sobre mí" y algunas entradas del blog.
+- [x] 🚀 Fork del [curso de Node](https://github.com/Fictizia/Curso-Node.js-para-desarrolladores-Front-end_ed7) cuando esté completo y añadir mis notas y ejercicios.
+- [x] 🚀 Añadir dominio propio en Netlify (permite poner certificado SSL gratuito con let's encrypt).
 
-### Semana 1 - 7 Octubre: Imágenes blog + optimización + textos + dominio.
-
-- [ ] 👀 Recuperar imágenes del [repo del curso de diseño](http://cristinafsanz.github.io/centro-ayuda-adolescentes/) para ponerlas en el blog.
-- [ ] 🚀 Fork del [curso de Node](https://github.com/Fictizia/Curso-Node.js-para-desarrolladores-Front-end_ed7) cuando esté completo y añadir mis notas y ejercicios.
-- [ ] 🚀 Usar Gulp para optimizar imágenes y que sean progresivas.
-- [ ] 🚀 Mirar cómo añadir dominio propio en Netlify (permite poner certificado SSL gratuito con let's encrypt) y quitarlo de Hostinger.
-- [ ] 👀 Enseñar para ver qué se podría añadir, aparte de Blog y "Sobre mí".
-- [ ] 🚀 Añadir textos finales del blog.
-
-### Semana 8 - 14 Octubre: Actualizar setup y snippets.
-
-- [ ] 🚀 [Repo code-snippets](https://github.com/cristinafsanz/code-snippets) ES6 con gifs de cómo se crean functions, arrows, promesas, etc.
-
-- [ ] 🚀 [Repo setup](https://github.com/cristinafsanz/setup) con últimos aprendizajes: Despliegues a distintos remotos, default y named exports, ayudas Chrome DevTools, extensión Chrome CORS, editar y firmar PDFs.
+### Semana 5 - 11 Noviembre: Mejorar blog
+- [ ] 📚 Hacer manual usuario: cómo se pueden editar o añadir entradas al blog.
+- [ ] 🚀 Hacer blog responsive.
+- [ ] 🚀 Filtro de tags.
 
 ## Backlog:
 
