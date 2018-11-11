@@ -20,7 +20,7 @@
 - [ ] 🚀 [Vue styleguide](https://github.com/vue-styleguidist/vue-styleguidist).
 
 ### Mejorar con JavaScript
-- [] [Mastering modular JavaScript](https://ponyfoo.com/books/mastering-modular-javascript).
+- [ ] 📚 [Mastering modular JavaScript](https://ponyfoo.com/books/mastering-modular-javascript).
 - [ ] Lección Angélica Lozano: if(!noCumple) return; continuar con resto.
 - [ ] 📚 [JavaScript30](https://javascript30.com/).
 - [ ] 📚 Leer [Modern JS cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet).
@@ -28,17 +28,25 @@
 - [ ] 🚀 [Juego para aprender JavaScript](https://lab.reaal.me/jsrobot/).
 - [ ] 📚 [PlainJS](https://plainjs.com/).
 - [ ] 🚀 [JS best practices](https://github.com/excellalabs/js-best-practices-workshopper).
-- [ ] [GitBook Adalab JS](https://adalab.gitbooks.io/curso-programacion-front-end-2018/content/sprint_2/2_1_intro_a_la_programacion.html)
+- [ ] 📚 [GitBook Adalab JS](https://adalab.gitbooks.io/curso-programacion-front-end-2018/content/sprint_2/2_1_intro_a_la_programacion.html)
 
 ### Flexbox + CSS Grid Layout
 - [ ] 🚀 Terminar taller Flexbox y hacer taller Grid Layout EscuelaIT. Añadir notas y enlaces código/demo a https://github.com/cristinafsanz/practicas-front.
-- [ ] [Curso CSS Grid Layout](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098).
-- [ ] [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be).
-- [ ] [Make the Perfect Responsive Grid with CSS](https://coder-coder.com/make-responsive-grid-css/).
+- [ ] 🚀 [Curso CSS Grid Layout](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098).
+- [ ] 🚀 [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be).
+- [ ] 🚀 [Charla Diana Aceves Fabada Conf](https://github.com/dianaaceves/fabadaconf).
+- [ ] 📚 [Make the Perfect Responsive Grid with CSS](https://coder-coder.com/make-responsive-grid-css/).
+
+### Python & Django
+- [ ] 🚀 [Why you should use pyenv + Pipenv for your Python projects](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c)
+  - Si se está con Mojave en macOS
+- [ ] [Pipenv: nuevo sistema de gestión de dependencias de paquetes para Python](https://www.youtube.com/watch?v=GXdsUw3db_M&feature=youtu.be)
+- [ ] [Youtube channel Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed)
+- [ ] [Tutorial Django Girls](https://tutorial.djangogirls.org/es/)
 
 ### Mejorar con arquitectura CSS
-- [ ] Casos de usos Sass (npm install npm-sass)
-- [ ] [Consejos arquitectura CSS](https://github.com/jareware/css-architecture).
+- [ ] 📚 Casos de usos Sass (npm install npm-sass)
+- [ ] 📚[Consejos arquitectura CSS](https://github.com/jareware/css-architecture).
 - [ ] 📚 ITCSS de EscuelaIT.
 - [ ] 📚 Charla Arquitectura CSS de Carmen e Ignacio: [Vídeo](https://www.youtube.com/watch?v=qnSbqv6rqx4) y [slides](http://wecodesignpodcast.com/speaking/#/).
 

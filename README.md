@@ -11,32 +11,28 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Retrospectiva 2018
 
-- Céntrate en aprender lo que necesitas ahora (la lista de TODOs te va a terminar agobiando).
-- Tener un tablón con objetivos generales puede ayudarte a mantener el foco en las cosas que quieres hacer.
-- Apunta lo que aprendes para volver a ello cuando te haga falta (y si lo tienes online le puede servir también a otros).
-- Hacer cosas distintas como pilates, bailes o idiomas ayuda a estar más feliz día a día. Y hacer planes con tu gente y viajar te puede alegrar aún más.
-- No te agobies, no lo vas a poder saber todo. Y no pasa nada.
-
-Nota: Actualizar tu [página web](https://cristinafsanz.github.io/) de un año a otro hace que puedas tener retrospectivas como ésta, viendo lo que te ha servido y lo que no. 
-  
-  - Antes tenía un enlace a un tablón de aprender, pero esto no me ayudó a avanzar, fue más el ir aprendiendo mientras estaba trabajando y apuntarlo para tenerlo disponible.
-
-  - También tenía el enlace al blog, pero actualmente prefiero escribir sobre lo que aprendo con repositorios de GitHub.
+- Céntrate en **aprender** lo que **necesitas ahora** (la lista de TODOs te va a terminar agobiando).
+- **Apunta** lo que **aprendes** para volver a ello cuando te haga falta (y si lo tienes **online** le puede servir también a otros).
+- Tener un tablón con **objetivos generales** puede ayudarte a no perder la **perspectiva** y mantener el foco en las cosas que quieres hacer.
+- Hacer **cosas distintas** como pilates, bailes o idiomas ayuda a estar más **feliz** día a día. Y hacer planes con tu gente y viajar te puede alegrar aún más.
+- **No te agobies**, no lo vas a poder saber todo. Y no pasa nada.
 
 ## Objetivos para 2019: [Cuidarme y ser feliz](https://twitter.com/dreamingechoes/status/937326848438042626)
 
-- 📚 Mejorar en Front-end: JavaScript (ES6 y Vue) y CSS (Flexbox y Grid Layout).
-- 📚 Hacer algo de Back-end: Aprender Python & Django.
-- 💃 Seguir con pilates y clases de baile.
-- 🚊 Planificar planes y viajes durante el año.
-- 🙉 Mejorar inglés y francés.
-- 🍴 Cocinar recetas nuevas.
-
-### Objetivo Noviembre 2018: Mejorar blog y que un usuario externo pueda añadir y editar contenido
+- 🚀 Mejorar en Front-end: **CSS** (Flexbox y Grid Layout) y **JavaScript** (ES6, Vue, Nuxt) y Back-end: Aprender **Python** & Django.
+- 💪 **Aportar valor**: Onboarding, compartir conocimiento y [mentoring](./mentoring.md).
+- 💃 Seguir con **pilates** y clases de **baile**.
+- 🚊 Planificar **planes** y **viajes** durante el año.
+- 🇬🇧 Mejorar **inglés** y recuperar algo del **francés** 🇫🇷 que aprendí.
+- 🍴 **Cocinar** recetas nuevas.
 
 ## Organización semanal
 
-### Semana 5 - 11 Noviembre: Mejorar blog
-- [x] 📚 Hacer manual usuario: cómo se pueden editar o añadir entradas al blog.
-- [ ] 🚀 Hacer blog responsive.
+### Semana 12 - 18 Noviembre: Mejorar blog Python & Django
 
+- [ ] 🚀 [Taller Python & Django](https://djangogirls.org/madrid/)
+
+### Semana 19 - 26 Noviembre: Nuxt & Commit-conf
+- [ ] 📚 Curso [Nuxt.js para Beginners](https://vueschool.io/lessons/what-is-nuxtjs)
+- [ ] 🚀 Hacer blog responsive.
+- [ ] 🚀 [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be).
