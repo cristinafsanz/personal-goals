@@ -19,13 +19,7 @@
 
 ## Sobre mentoring
 
-[Katia Aresti](https://twitter.com/karesti/status/1064069430336995328?s=20): Do you want to stay relevant as a software developer for the next 10 years? These are 3 major things you should focus on: 
-
-- Coding 
-
-- Being your career master (not your company) 
-
-- Boosting your professional karma through contribs (blog, public speaking, OS, mentoring)
-
 [Noe Medina](https://twitter.com/noemedinaweb/status/1063779801654280192): Cuando he tenido un compañero/a que se ha preocupado de perder 5-10-20 min en explicarme las cosas, he aprendido, he mejorado y le he aportado más al equipo que cuando te hablan con condescendencia.
+
+
 
