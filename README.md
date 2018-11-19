@@ -26,13 +26,11 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 🇬🇧 Mejorar **inglés** y recuperar algo del **francés** 🇫🇷 que aprendí.
 - 🍴 **Cocinar** recetas nuevas.
 
-## Organización semanal
+## Organización
 
-### Semana 12 - 18 Noviembre: Mejorar blog Python & Django
+### Noviembre
 
-- [ ] 🚀 [Taller Python & Django](https://djangogirls.org/madrid/)
-
-### Semana 19 - 26 Noviembre: Nuxt & Commit-conf
-- [ ] 📚 Curso [Nuxt.js para Beginners](https://vueschool.io/lessons/what-is-nuxtjs)
-- [ ] 🚀 Hacer blog responsive.
 - [ ] 🚀 [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be).
+- [ ] 🚀 [Terminar curso Flexbox (a partir min. 50)](https://escuela.it/cursos/taller-profesional-flexbox/clase/practica-y-ejemplos-i)
+  - Faltan 3 vídeos y medio.
+

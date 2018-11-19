@@ -2,7 +2,16 @@
 
 ## Blog Gatsby
 
-- [ ] 🚀 Filtro de tags.
+- [ ] 🚀 Filtro de tags + SEO + responsive.
+
+## Nuxt
+- [ ] 📚 Curso [Nuxt.js para Beginners](https://vueschool.io/lessons/what-is-nuxtjs)
+
+## Vue + Django
+- [ ] 🚀 [Fullstack Single Page Applications con Django + Webpack + Vue.js](https://www.youtube.com/watch?v=NUo6Fdqoers)
+  - Slides: https://www.slideshare.net/JavierAbada/django-vue-javascript-de-3-generacin-para-modernizar-django
+  - Código: https://github.com/jabadia/gif_catalog
+  - Editor [PyCharm](https://www.jetbrains.com/help/pycharm/editor-guided-tour.html)
 
 ## Vue
 - [ ] 🚀 [The Vue.js Master Class](https://vueschool.io/courses/the-vuejs-master-class).
