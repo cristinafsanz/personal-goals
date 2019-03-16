@@ -23,14 +23,69 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - 💪 **Aportar valor**: Onboarding, compartir conocimiento y [mentoring](./mentoring.md).
 - 💃 Seguir con **pilates** y clases de **baile**.
 - 🚊 Planificar **planes** y **viajes** durante el año.
-- 🇬🇧 Mejorar **inglés** y recuperar algo del **francés** 🇫🇷 que aprendí.
+- 🇬🇧 Mejorar **inglés** y recuperar algo del **francés** 🇫🇷 que aprendí. Escuchar **alemán** para no perderlo.
 - 🍴 **Cocinar** recetas nuevas.
 
 ## Organización
 
-### Noviembre
+### Marzo: Actualizar repos de GitHub
+
+- [ ] Instalar extensión VSCode para .editorconfig: https://github.com/editorconfig/editorconfig-vscode.
+
+- [ ] 🚀 Readme repo "Guardianes de la galaxia" con los pasos para cada tecnología (en mi fork y en el original).
+
+- [ ] 🚀 Scopes al principio del taller de Nuxt para evitar errores localhost.
+
+- [ ] Buscar algo similar a la herramienta que usó Marta en Wecode para hacer test y medir tiempos: Jupiter Python / Observable HQ JS.
+
+- [ ] 🚀 Setup: Extensiones de Chrome maquetar, [CSS Airbnb guía de estilos](https://github.com/airbnb/css), Sass, [Keep a fork up to date](https://gist.github.com/CristinaSolana/1885435) (pero con git remote add https://github.com/...), [archive.org](https://archive.org/), [open source illustrations](https://undraw.co/), [recursos iconos](https://icons8.com/), Emojicopy, Flaticon, [alternativa Photoshop online](https://www.photopea.com/), [Bubble css](https://leaverou.github.io/bubbly/), [today I learned](https://github.com/jbranchaud/til), [sync my personal settings w/ GitHub gists](https://t.co/e41Md1bF0B), [extensión Tabby Cat](https://twitter.com/posva/status/1094207672721833984)
+
+- [ ] 🚀 Codesnipets: Array cardio 1 y 2 con function y arrow function.
+
+- [ ] Ver charlas t3chfest: Accesibilidad, [Internet a dieta](https://internet-diet.now.sh/#0), arte con CSS, cine con Carolina (más apuntar películas)
+
+- [ ] Añadir taller Nuxt y charla T3chfest en cristinafsanz.github.io.
+
+### Abril-Mayo: Cursos pendientes
+
+- [ ] 🚀 Curso [trucos VSCode](https://www.udemy.com/cart/subscribe/course/2259510/).
+
+- [ ] 🚀 [CSS3 en 30 días](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
+
+- [ ] 🚀 [Curso Diana Aceves Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout).
 
 - [ ] 🚀 [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be).
-- [ ] 🚀 [Terminar curso Flexbox (a partir min. 50)](https://escuela.it/cursos/taller-profesional-flexbox/clase/practica-y-ejemplos-i)
-  - Faltan 3 vídeos y medio.
 
+- [ ] 📺 [Charlas CSS](https://codetalks.tv/event/dot-css-2018)
+
+- [ ] 🚀 [JavaScript 30 Wesbox](https://javascript30.com/).
+
+- [ ] 🚀 [Animaciones CSS](https://www.youtube.com/watch?v=FzKiaisTdeQ)
+
+### Junio
+
+- [ ] Node Girls: Mejorar repo de Katas (explicación bajar el START.js y abrir navegador para ver resultado)
+
+### Septiembre: Charla
+
+- [ ] 🙈 Repetir charla "Guardianes de la Galaxia front" probando [lint-staged](https://github.com/okonet/lint-staged).
+
+### Noviembre: Taller?
+
+- [ ] 🚀 ¿Taller Vue con Cris?
+
+### Próximamente
+
+- [ ] 🚀 Intentar hacer una página demo como Marina Ferreira: https://marina-ferreira.github.io/projects/js/memory-game/
+
+- [ ] 🚀 [Aprender Webpack](https://www.youtube.com/watch?v=3On5Z0gjf4U)
+
+- [ ] [Aprender sobre Accesibilidad](https://github.com/IgnaciodeNuevo/personal-goals#a11y), [color and contrast picker](http://kevingutowski.github.io/color.html)
+
+- [ ] Mirar cursos [Openclassrooms](https://openclassrooms.com/en/)
+
+- [ ] Charlas [Python](https://t.co/JHgVVHm8rN)
+
+- [ ] Charla Storybook CanariasJS 2018
+
+- [ ] 🚀 Curso [React](https://www.udemy.com/aprendiendo-react/learn/v4/overview)
