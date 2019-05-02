@@ -28,17 +28,17 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Organización
 
-### Marzo: Actualizar repos de GitHub
+### Mayo: Actualizar repos de GitHub
 
-- [ ] Instalar extensión VSCode para .editorconfig: https://github.com/editorconfig/editorconfig-vscode.
-
-- [ ] 🚀 Readme repo "Guardianes de la galaxia" con los pasos para cada tecnología (en mi fork y en el original).
+- [ ] Probar [Joplin](https://github.com/laurent22/joplin) para tomar notas. También Bear, pero solo mac.
 
 - [ ] 🚀 Scopes al principio del taller de Nuxt para evitar errores localhost.
 
 - [ ] Buscar algo similar a la herramienta que usó Marta en Wecode para hacer test y medir tiempos: Jupiter Python / Observable HQ JS.
 
 - [ ] 🚀 Setup: Extensiones de Chrome maquetar, [CSS Airbnb guía de estilos](https://github.com/airbnb/css), Sass, [Keep a fork up to date](https://gist.github.com/CristinaSolana/1885435) (pero con git remote add https://github.com/...), [archive.org](https://archive.org/), [open source illustrations](https://undraw.co/), [recursos iconos](https://icons8.com/), Emojicopy, Flaticon, [alternativa Photoshop online](https://www.photopea.com/), [Bubble css](https://leaverou.github.io/bubbly/), [today I learned](https://github.com/jbranchaud/til), [sync my personal settings w/ GitHub gists](https://t.co/e41Md1bF0B), [extensión Tabby Cat](https://twitter.com/posva/status/1094207672721833984)
+
+- [ ] Each sass: https://benfrain.com/working-with-lists-and-each-loops-in-sass-with-the-index-and-nth-function/
 
 - [ ] 🚀 Codesnipets: Array cardio 1 y 2 con function y arrow function.
 
@@ -80,7 +80,7 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 - [ ] 🚀 [Aprender Webpack](https://www.youtube.com/watch?v=3On5Z0gjf4U)
 
-- [ ] [Aprender sobre Accesibilidad](https://github.com/IgnaciodeNuevo/personal-goals#a11y), [color and contrast picker](http://kevingutowski.github.io/color.html)
+- [ ] [Aprender sobre Accesibilidad](https://github.com/IgnaciodeNuevo/personal-goals#a11y), [color and contrast picker](http://kevingutowski.github.io/color.html), [Web Accesibility](https://www.classcentral.com/course/canvas-network-introduction-to-web-accessibility-13329), [Web Accesibility for Beginners](https://scotch.io/tutorials/web-accessibility-for-beginners), Curso Udacity (recomendado por Xaviju).
 
 - [ ] Mirar cursos [Openclassrooms](https://openclassrooms.com/en/)
 
