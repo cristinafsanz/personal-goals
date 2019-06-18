@@ -28,13 +28,19 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Organización
 
-### Mayo: Actualizar repos de GitHub
+### Junio - Septiembre
+
+- [ ] 🚀 Curso fullstack React + Node universidad Helsinki: https://fullstackopen.com/en/
+
+- [ ] 🚀 Scopes al principio del taller de Nuxt para evitar errores localhost + mejorar taller.
+
+- [ ] 🙈 Charla "Guardianes de la Galaxia front" probando [lint-staged](https://github.com/okonet/lint-staged).
+
+- [ ] 🙈 Taller Vue con Cris
+
+### Notas aprendizaje
 
 - [ ] Probar [Joplin](https://github.com/laurent22/joplin) para tomar notas. También Bear, pero solo mac.
-
-- [ ] 🚀 Scopes al principio del taller de Nuxt para evitar errores localhost.
-
-- [ ] Buscar algo similar a la herramienta que usó Marta en Wecode para hacer test y medir tiempos: Jupiter Python / Observable HQ JS.
 
 - [ ] 🚀 Setup: Extensiones de Chrome maquetar, [CSS Airbnb guía de estilos](https://github.com/airbnb/css), Sass, [Keep a fork up to date](https://gist.github.com/CristinaSolana/1885435) (pero con git remote add https://github.com/...), [archive.org](https://archive.org/), [open source illustrations](https://undraw.co/), [recursos iconos](https://icons8.com/), Emojicopy, Flaticon, [alternativa Photoshop online](https://www.photopea.com/), [Bubble css](https://leaverou.github.io/bubbly/), [today I learned](https://github.com/jbranchaud/til), [sync my personal settings w/ GitHub gists](https://t.co/e41Md1bF0B), [extensión Tabby Cat](https://twitter.com/posva/status/1094207672721833984)
 
@@ -42,11 +48,9 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 - [ ] 🚀 Codesnipets: Array cardio 1 y 2 con function y arrow function.
 
-- [ ] Ver charlas t3chfest: Accesibilidad, [Internet a dieta](https://internet-diet.now.sh/#0), arte con CSS, cine con Carolina (más apuntar películas)
-
 - [ ] Añadir taller Nuxt y charla T3chfest en cristinafsanz.github.io.
 
-### Abril-Mayo: Cursos pendientes
+### Cursos pendientes
 
 - [ ] 🚀 Curso [trucos VSCode](https://www.udemy.com/cart/subscribe/course/2259510/).
 
@@ -62,18 +66,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 - [ ] 🚀 [Animaciones CSS](https://www.youtube.com/watch?v=FzKiaisTdeQ)
 
-### Junio
-
-- [ ] Node Girls: Mejorar repo de Katas (explicación bajar el START.js y abrir navegador para ver resultado)
-
-### Septiembre: Charla
-
-- [ ] 🙈 Repetir charla "Guardianes de la Galaxia front" probando [lint-staged](https://github.com/okonet/lint-staged).
-
-### Noviembre: Taller?
-
-- [ ] 🚀 ¿Taller Vue con Cris?
-
 ### Próximamente
 
 - [ ] 🚀 Intentar hacer una página demo como Marina Ferreira: https://marina-ferreira.github.io/projects/js/memory-game/
@@ -83,8 +75,6 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 - [ ] [Aprender sobre Accesibilidad](https://github.com/IgnaciodeNuevo/personal-goals#a11y), [color and contrast picker](http://kevingutowski.github.io/color.html), [Web Accesibility](https://www.classcentral.com/course/canvas-network-introduction-to-web-accessibility-13329), [Web Accesibility for Beginners](https://scotch.io/tutorials/web-accessibility-for-beginners), Curso Udacity (recomendado por Xaviju).
 
 - [ ] Mirar cursos [Openclassrooms](https://openclassrooms.com/en/)
-
-- [ ] Charlas [Python](https://t.co/JHgVVHm8rN)
 
 - [ ] Charla Storybook CanariasJS 2018
 
