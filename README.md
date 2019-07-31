@@ -19,63 +19,17 @@ Idea original de [Una Kravets](https://github.com/una): [How Open Sourcing my pe
 
 ## Objetivos para 2019: [Cuidarme y ser feliz](https://twitter.com/dreamingechoes/status/937326848438042626)
 
-- 🚀 Mejorar en Front-end: **CSS** (Flexbox y Grid Layout) y **JavaScript** (ES6, Vue, Nuxt) y Back-end: Aprender **Python** & Django.
-- 💪 **Aportar valor**: Onboarding, compartir conocimiento y [mentoring](./mentoring.md).
-- 💃 Seguir con **pilates** y clases de **baile**.
+- 🚀 Mejorar en Front-end: **CSS** (Flexbox y Grid Layout) y **JavaScript** (ES6, Vue, Nuxt).
+- 💪 **Aportar valor**: Compartir conocimiento y [mentoring](./mentoring.md).
+- 💃 Seguir con **pilates** y empezar a **correr**.
 - 🚊 Planificar **planes** y **viajes** durante el año.
 - 🇬🇧 Mejorar **inglés** y recuperar algo del **francés** 🇫🇷 que aprendí. Escuchar **alemán** para no perderlo.
 - 🍴 **Cocinar** recetas nuevas.
 
 ## Organización
 
-### Junio - Septiembre
+### Septiembre - Noviembre
 
-- [ ] 🚀 Curso fullstack React + Node universidad Helsinki: https://fullstackopen.com/en/
+- [ ] 🚀Charla "Guardianes de la Galaxia front" probando [lint-staged](https://github.com/okonet/lint-staged) + [debugger en los tests de Jest](https://artsy.github.io/blog/2018/08/24/How-to-debug-jest-tests/).
 
-- [ ] 🚀 Scopes al principio del taller de Nuxt para evitar errores localhost + mejorar taller.
-
-- [ ] 🙈 Charla "Guardianes de la Galaxia front" probando [lint-staged](https://github.com/okonet/lint-staged).
-
-- [ ] 🙈 Taller Vue con Cris
-
-### Notas aprendizaje
-
-- [ ] Probar [Joplin](https://github.com/laurent22/joplin) para tomar notas. También Bear, pero solo mac.
-
-- [ ] 🚀 Setup: Extensiones de Chrome maquetar, [CSS Airbnb guía de estilos](https://github.com/airbnb/css), Sass, [Keep a fork up to date](https://gist.github.com/CristinaSolana/1885435) (pero con git remote add https://github.com/...), [archive.org](https://archive.org/), [open source illustrations](https://undraw.co/), [recursos iconos](https://icons8.com/), Emojicopy, Flaticon, [alternativa Photoshop online](https://www.photopea.com/), [Bubble css](https://leaverou.github.io/bubbly/), [today I learned](https://github.com/jbranchaud/til), [sync my personal settings w/ GitHub gists](https://t.co/e41Md1bF0B), [extensión Tabby Cat](https://twitter.com/posva/status/1094207672721833984)
-
-- [ ] Each sass: https://benfrain.com/working-with-lists-and-each-loops-in-sass-with-the-index-and-nth-function/
-
-- [ ] 🚀 Codesnipets: Array cardio 1 y 2 con function y arrow function.
-
-- [ ] Añadir taller Nuxt y charla T3chfest en cristinafsanz.github.io.
-
-### Cursos pendientes
-
-- [ ] 🚀 Curso [trucos VSCode](https://www.udemy.com/cart/subscribe/course/2259510/).
-
-- [ ] 🚀 [CSS3 en 30 días](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
-
-- [ ] 🚀 [Curso Diana Aceves Grid Layout](https://escuela.it/cursos/taller-de-css-grid-layout).
-
-- [ ] 🚀 [Charla Diana Aceves Grid Layout WeCodeFest](https://www.youtube.com/watch?v=p7oXrr9yjXY&feature=youtu.be).
-
-- [ ] 📺 [Charlas CSS](https://codetalks.tv/event/dot-css-2018)
-
-- [ ] 🚀 [JavaScript 30 Wesbox](https://javascript30.com/).
-
-- [ ] 🚀 [Animaciones CSS](https://www.youtube.com/watch?v=FzKiaisTdeQ)
-
-### Próximamente
-
-- [ ] 🚀 Intentar hacer una página demo como Marina Ferreira: https://marina-ferreira.github.io/projects/js/memory-game/
-
-- [ ] 🚀 [Aprender Webpack](https://www.youtube.com/watch?v=3On5Z0gjf4U)
-
-- [ ] [Aprender sobre Accesibilidad](https://github.com/IgnaciodeNuevo/personal-goals#a11y), [color and contrast picker](http://kevingutowski.github.io/color.html), [Web Accesibility](https://www.classcentral.com/course/canvas-network-introduction-to-web-accessibility-13329), [Web Accesibility for Beginners](https://scotch.io/tutorials/web-accessibility-for-beginners), Curso Udacity (recomendado por Xaviju).
-
-- [ ] Mirar cursos [Openclassrooms](https://openclassrooms.com/en/)
-
-- [ ] Charla Storybook CanariasJS 2018
-
-- [ ] 🚀 Curso [React](https://www.udemy.com/aprendiendo-react/learn/v4/overview)
+- [ ] 🚀Proceso en maquetación usando cacher.io, extensiones de Chrome para probar accesibilidad y performance, ...
